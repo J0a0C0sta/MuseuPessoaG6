@@ -1,4 +1,4 @@
-# MuseuPessoaG7
+# MuseuPessoaG6
 Repostorio aula de AVD
 
 ## Equipa:
