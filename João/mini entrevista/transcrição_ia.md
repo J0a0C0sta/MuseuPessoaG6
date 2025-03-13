@@ -1,5 +1,6 @@
 **Detected language:** Portuguese
 **[00:00.000 --> 00:04.880]**  Então, que papel desempenha esta instituição nesta casa?
+
 **[00:04.880 --> 00:11.680]**  Bom, esta é uma casa do museu municipal, a Câmara Municipal de Ilaná, Afamalicá,
 **[00:11.680 --> 00:20.560]**  e eu sou funcionário da Câmara, destacado neste serviço, ou seja, sou guia da casa.
 **[00:20.560 --> 00:29.040]**  Bicho que isto é sobre o turismo utráneo e esta casa é sobre um escritor, quando e
