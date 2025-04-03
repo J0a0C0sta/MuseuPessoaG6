@@ -1,0 +1,3990 @@
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+Então   ADV     então   advmod  591
+começar VERB    começar parataxis       861
+com     ADP     com     case    12
+perguntas       NOUN    pergunta        obj     2184
+que     PRON    que     nsubj   7
+não     ADV     não     advmod  21
+fui     AUX     ser     cop     935
+eu      PRON    eu      acl:relcl       63
+que     SCONJ   que     mark    7
+as      PRON    elas    obj     23
+fiz     VERB    fiz     advcl   1175
+,       PUNCT   ,       punct   0
+são     AUX     ser     cop     46
+obrigatórias    ADJ     obrigatório     ROOT    17999
+de      SCONJ   de      mark    2
+perguntar       VERB    perguntar       xcomp   4538
+perguntas       NOUN    pergunta        obj     2184
+de      ADP     de      case    2
+identificação   NOUN    identificação   nmod    2255
+.       PUNCT   .       punct   3
+
+O       DET     o       det     28
+seu     DET     seu     det     42
+nome    NOUN    nome    ROOT    211
+completo        ADJ     completo        amod    1137
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+O       DET     o       det     28
+meu     DET     meu     det     137
+nome    NOUN    nome    nsubj   211
+é       AUX     ser     cop     14
+Reinaldo Fernando Nunes Pinho Ferreira  PROPN   PER     ROOT    500000
+.       PUNCT   .       punct   3
+
+Entrevistador: Idade?
+        NOUN    MISC    ROOT    500001
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Cinquenta       PROPN   cinquenta       amod    33891
+e       CCONJ   e       cc      4
+sete    NUM     sete    nummod  1185
+anos    NOUN    ano     ROOT    64
+.       PUNCT   .       punct   3
+
+Entrevistador: Sexo?
+        NOUN    MISC    ROOT    500002
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+Masculino       PROPN   LOC     appos   13093
+.       PUNCT   .       punct   3
+
+Entrevistador: Licenciatura     NOUN    MISC    ROOT    500003
+,       PUNCT   ,       punct   0
+formação        NOUN    formação        conj    563
+ou      CCONJ   ou      cc      33
+grau    NOUN    grau    conj    1706
+de      ADP     de      case    2
+escolaridade    NOUN    escolaridade    nmod    8829
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Eu      PRON    eu      nsubj   171
+não     ADV     não     advmod  21
+tenho   VERB    ter     ROOT    301
+…       PUNCT   …       punct   124
+eu      PRON    eu      nsubj   63
+não     ADV     não     advmod  21
+sou     AUX     ser     ccomp   525
+…       PUNCT   …       punct   124
+tenho   VERB    ter     ccomp   301
+o       DET     o       det     6
+décimo  ADJ     décimo  obj     9152
+segundo ADJ     segundo case    205
+o       DET     o       det     6
+décimo  ADJ     décimo  obl     9152
+segundo ADJ     segundo case    205
+ano     NOUN    ano     obl     93
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Então   ADV     então   advmod  591
+agora   ADV     agora   advmod  193
+passar  VERB    passar  ROOT    531
+ás      ADP     ás      case    7392
+perguntas       NOUN    pergunta        obj     2184
+que     PRON    que     obj     7
+eu      PRON    eu      nsubj   63
+fiz     VERB    fiz     acl:relcl       1175
+.       PUNCT   .       punct   3
+
+Então   ADV     então   advmod  591
+que     SCONJ   que     nsubj   7
+papel   NOUN    papel   nsubj   476
+dessem  VERB    der     ROOT    34931
+Penha   PROPN   LOC     obj     10503
+nesta   ADP     em este case    290
+instituição     NOUN    instituição     obl     1300
+,       PUNCT   ,       punct   0
+nesta   ADP     em este case    290
+casa    NOUN    casa    obl     142
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Bom     ADV     bom     advmod  1333
+esta    PRON    este    nsubj   147
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+casa    NOUN    casa    ROOT    142
+museu   NOUN    museu   appos   4055
+municipal       ADJ     municipal       amod    1696
+,       PUNCT   ,       punct   0
+da      ADP     de o    case    9
+câmara  NOUN    câmara  nsubj   4205
+municipal       ADJ     municipal       amod    1696
+Vila Nova de Famalicão  PROPN   LOC     appos   500004
+e       CCONJ   e       cc      4
+eu      PRON    eu      nsubj   63
+sou     AUX     ser     cop     525
+funcionário     NOUN    funcionário     conj    4181
+da      ADP     de o    case    9
+câmara  NOUN    câmara  nmod    4205
+destacado       VERB    destacar        acl     10511
+neste   ADP     em este case    280
+serviço NOUN    serviço obl     310
+ou      CCONJ   ou      cc      33
+seja    VERB    ser     conj    126
+sou     AUX     ser     cop     525
+guia    NOUN    guia    conj    2419
+da      ADP     de o    case    9
+casa    NOUN    casa    nmod    142
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Visto   SCONJ   Visto   mark    14546
+que     SCONJ   que     fixed   7
+isto    PRON    isto    nsubj   534
+é       AUX     ser     cop     14
+sobre   ADP     sobre   case    55
+o       DET     o       det     6
+turismo NOUN    turismo nmod    2200
+literário       ADJ     literário       amod    8134
+e       CCONJ   e       cc      4
+esta    DET     este    det     147
+casa    NOUN    casa    nsubj   142
+é       AUX     ser     cop     14
+sobre   ADP     sobre   case    55
+um      DET     um      det     13
+escritor        NOUN    escritor        ROOT    2386
+quando  ADV     quando  cc      71
+e       CCONJ   e       cc      4
+como    ADV     como    advmod  29
+é       AUX     ser     discourse       14
+que     SCONJ   que     mark    7
+se      PRON    se      expl    24
+interessou      VERB    interessar      acl:relcl       19913
+pela    ADP     por o   case    51
+literatura      NOUN    literatura      obl     1950
+?       PUNCT   ?       punct   49
+
+,       PUNCT   ,       punct   0
+Por     ADP     por     case    156
+livros  NOUN    livro   ROOT    581
+e       CCONJ   e       cc      4
+por     SCONJ   por     mark    22
+ler     VERB    ler     conj    739
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    MISC    ROOT    100066
+:       PUNCT   :       punct   27
+
+Pode    VERB    poder   ROOT    1284
+repetir VERB    repetir xcomp   5562
+?       PUNCT   ?       punct   49
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Quando  ADV     quando  mark    259
+e       CCONJ   e       cc      4
+como    ADV     como    advmod  29
+é       AUX     ser     discourse       14
+que     SCONJ   que     mark    7
+se      PRON    se      expl    24
+interessou      VERB    interessar      ROOT    19913
+pela    ADP     por o   case    51
+literatura      NOUN    literatura      obl     1950
+?       PUNCT   ?       punct   49
+,       PUNCT   ,       punct   0
+Por     ADP     por     case    156
+livros  NOUN    livro   obl     581
+e       CCONJ   e       cc      4
+por     ADP     por     case    22
+lêr     PROPN   LOC     conj    174400
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Eu      PRON    eu      nsubj   171
+,       PUNCT   ,       punct   0
+está    VERB    estar   ROOT    58
+se      SCONJ   se      mark    24
+a       SCONJ   a       mark    5
+referir VERB    referir xcomp   7784
+a       ADP     a       case    5
+quando  ADV     quando  advmod  71
+eu      PRON    eu      nsubj   63
+me      PRON    eu      obj     86
+interessei      VERB    interessei      ccomp   25027
+?       PUNCT   ?       punct   49
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Sim     ADV     sim     advmod  1545
+,       PUNCT   ,       punct   0
+sim     ADV     sim     advmod  445
+,       PUNCT   ,       punct   0
+sim     ADV     sim     advmod  445
+!       PUNCT   !       punct   38
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Ah      ADV     Ah      advmod  3257
+bem     ADV     bem     ROOT    69
+.       PUNCT   .       punct   3
+
+Bom     ADV     bom     ROOT    1333
+.       PUNCT   .       punct   3
+
+Eu      PRON    eu      nsubj   171
+já      ADV     já      advmod  57
+trabalho        NOUN    trabalho        advcl   113
+aqui    ADV     aqui    advmod  140
+há      VERB    haver   advcl   114
+alguns  DET     algum   det     168
+anos    NOUN    ano     obj     64
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+preciso ADJ     preciso conj    509
+dizer   VERB    dizer   csubj   318
+quantos PRON    quanto  obj     4974
+mas     CCONJ   mas     cc      44
+já      ADV     já      advmod  57
+são     AUX     ser     cop     46
+bastantes       ADJ     bastante        conj    21158
+,       PUNCT   ,       punct   0
+e       CCONJ   e       cc      4
+quando  ADV     quando  advmod  71
+vim     VERB    MISC    conj    5911
+para    ADP     para    case    11
+cá      ADV     cá      advmod  2217
+conhecia        VERB    conhecer        advcl   4769
+pouco   ADV     pouco   advmod  182
+do      ADP     de o    case    8
+Camilo  PROPN   PER     obj     9566
+conhecia        VERB    conhecer        csubj   4769
+o       DET     o       det     6
+“       PROPN   “       obj     39
+Amor    PROPN   Amor    flat:name       3071
+de      ADP     de      case    2
+perdição        NOUN    perdição        nmod    29352
+”       PUNCT   ”       punct   40
+e       CCONJ   e       cc      4
+pouco   ADV     pouco   advmod  182
+mais    ADV     mais    conj    25
+,       PUNCT   ,       punct   0
+depois  ADV     depois  advmod  136
+tive    VERB    ter     advcl   1254
+que     SCONJ   que     mark    7
+me      PRON    eu      obj     86
+documentar      VERB    documentar      ccomp   28589
+naturalmente    ADV     naturalmente    advmod  3738
+,       PUNCT   ,       punct   0
+tive    VERB    ter     conj    1254
+que     SCONJ   que     mark    7
+me      PRON    eu      obj     86
+documentar      VERB    documentar      ccomp   28589
+para    SCONJ   para    case    11
+poder   VERB    poder   advcl   275
+estar   AUX     estar   cop     238
+á       ADP     á       case    2736
+altura  NOUN    altura  ccomp   989
+das     ADP     de o    case    34
+perguntas       NOUN    pergunta        nmod    2184
+das     ADP     de o    case    34
+respostas       NOUN    resposta        nmod    2209
+e       CCONJ   e       cc      4
+ter     VERB    ter     conj    80
+conhecimento    NOUN    conhecimento    obj     492
+do      ADP     de o    case    8
+autor   NOUN    autor   nmod    810
+e       CCONJ   e       cc      4
+a       ADP     a       case    5
+partir  VERB    partir  conj    194
+daí     ADV     de aí   advmod  2588
+comecei VERB    começar conj    2960
+me      PRON    eu      mark    86
+a       SCONJ   a       mark    5
+interessar      VERB    interessar      advcl   12318
+comecei VERB    começar parataxis       2960
+a       SCONJ   a       mark    5
+ler     VERB    ler     xcomp   739
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+comecei VERB    começar conj    2960
+a       SCONJ   a       mark    5
+gostar  VERB    gostar  xcomp   3470
+e       CCONJ   e       cc      4
+tive    VERB    ter     conj    1254
+alguma  DET     algum   det     410
+dificuldade     NOUN    dificuldade     obj     1647
+em      SCONJ   em      mark    10
+absorver        VERB    absorver        advcl   11098
+determinados    VERB    determinar      amod    4084
+vocábulos       NOUN    vocábulo        obj     45083
+porque  SCONJ   porque  mark    128
+Camilo  PROPN   PER     nsubj   9566
+tem     VERB    ter     advcl   52
+um      DET     um      det     13
+vocabulário     NOUN    vocabulário     obj     11623
+muito   ADV     muito   advmod  50
+rebuscado       VERB    rebuscar        acl     91307
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+muito   ADV     muito   advmod  50
+fácil   ADJ     fácil   conj    503
+hoje    ADV     hoje    advmod  163
+leio    VERB    leio    ROOT    10690
+Camilo  PROPN   PER     nsubj   9566
+com     ADP     com     case    12
+mais    DET     mais    det     25
+facilidade      NOUN    facilidade      obl     2749
+e       CCONJ   e       cc      4
+de      ADP     de      case    2
+facto   NOUN    facto   obl     1959
+é       AUX     ser     cop     14
+extraordinário  ADJ     extraordinário  conj    7742
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+
+Algum   DET     Algum   det     18483
+livro   NOUN    livro   nsubj   227
+específico      ADJ     específico      amod    2580
+que     PRON    que     nsubj   7
+goste   VERB    gostar  acl:relcl       10265
+mais    ADV     mais    advmod  25
+do      ADP     de o    case    8
+Camilo  PROPN   PER     obj     9566
+?
+Entrevistado:  Sabe o “Amor de perdição VERB    MISC    ROOT    500005
+”       PUNCT   ”       punct   40
+de      ADP     de      case    2
+perdição        NOUN    perdição        nmod    29352
+é       AUX     ser     cop     14
+de      ADP     de      case    2
+facto   NOUN    facto   ccomp   1959
+o       DET     o       det     6
+mais    ADV     mais    advmod  25
+conhecido       ADJ     conhecido       acl     781
+mas     CCONJ   mas     cc      44
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+o       DET     o       det     6
+meu     DET     meu     det     137
+livro   NOUN    livro   conj    227
+de      ADP     de      case    2
+eleição NOUN    eleição nmod    2101
+do      ADP     de o    case    8
+Camilo  PROPN   PER     nmod    9566
+há      VERB    há      advcl   114
+outros  PRON    outro   obj     107
+como    ADP     como    case    29
+a       DET     o       det     5
+“       PUNCT   “       obl     39
+A Brasileira de Prazins PROPN   MISC    appos   500006
+”       PUNCT   ”       punct   40
+,       PUNCT   ,       punct   0
+“       PUNCT   “       punct   39
+
+As novelas do Minho     NOUN    MISC    nsubj   500007
+”       PUNCT   ”       punct   40
+,       PUNCT   ,       punct   0
+“       PUNCT   “       punct   39
+Maria Moisés    PROPN   PER     appos   500008
+”       PUNCT   ”       punct   40
+absolutamente   ADV     absolutamente   advmod  3852
+extraordinário  ADJ     extraordinário  amod    7742
+,       PUNCT   ,       punct   0
+“       PUNCT   “       punct   39
+O Retrato de Ricardina  PROPN   MISC    nsubj   500009
+”       PUNCT   ”       punct   40
+apaixonante     ADJ     apaixonante     amod    22675
+não     ADV     não     advmod  21
+é       AUX     ser     aux:pass        14
+.       PUNCT   .       ROOT    3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+E       CCONJ   e       cc      79
+para    ADP     para    case    11
+além    ADV     além    advmod  164
+do      ADP     de o    case    8
+Camilo Castelo Branco   PROPN   PER     obl     500010
+um      DET     um      det     13
+escritor        NOUN    escritor        ROOT    2386
+que     PRON    que     nsubj   7
+goste   VERB    gostar  acl:relcl       10265
+muito   ADV     muito   advmod  50
+também  ADV     também  advmod  48
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Sabe    VERB    saber   ROOT    5360
+quando  ADV     quando  advmod  71
+se      PRON    se      nsubj   24
+fala    VERB    falar   ccomp   933
+de      ADP     de      case    2
+Camilo  PROPN   PER     obj     9566
+incontornavelmente      ADV     incontornavelmente      advmod  297544
+terá    VERB    ter     ccomp   526
+de      SCONJ   de      mark    2
+se      PRON    se      expl    24
+falar   VERB    falar   xcomp   409
+de      ADP     de      case    2
+Eça de Queirós  PROPN   PER     obj     500011
+dois    NUM     dois    nummod  127
+vultos  NOUN    vulto   nsubj   50090
+da      ADP     de o    case    9
+nossa   DET     nosso   det     190
+literatura      NOUN    literatura      nmod    1950
+,       PUNCT   ,       punct   0
+pronto  ADJ     pronto  advcl   2008
+Fernando Pessoa PROPN   PER     nsubj   500012
+,       PUNCT   ,       punct   0
+Camões  PROPN   PER     conj    15362
+etc     CCONJ   etc     flat:name       1742
+…       PUNCT   …       punct   124
+mas     CCONJ   mas     cc      44
+de      ADP     de      case    2
+facto   NOUN    facto   nmod    1959
+os      DET     o       det     18
+dois    NUM     dois    nummod  127
+autores NOUN    autor   nsubj   1880
+que     PRON    que     nsubj   7
+me      PRON    eu      iobj    86
+enchem  VERB    encher  acl:relcl       26325
+as      DET     o       det     23
+medidas NOUN    medida  obj     1122
+é       AUX     ser     cop     14
+o       DET     o       det     6
+Camilo  PROPN   PER     conj    9566
+e       CCONJ   e       cc      4
+o       DET     o       det     6
+Eça     PROPN   PER     conj    29070
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Então   ADV     então   advmod  591
+como    ADV     como    advmod  29
+é       AUX     ser     discourse       14
+que     SCONJ   que     mark    7
+entrou  VERB    entrar  ROOT    1793
+como    ADV     como    advmod  29
+é       AUX     ser     discourse       14
+que     SCONJ   que     mark    7
+começou VERB    começar ccomp   630
+a       SCONJ   a       mark    5
+trabalhar       VERB    trabalhar       xcomp   698
+aqui    ADV     aqui    advmod  140
+,       PUNCT   ,       punct   0
+como    ADV     como    advmod  29
+é       AUX     ser     discourse       14
+que     SCONJ   que     mark    7
+entrou  VERB    entrar  advcl   1793
+neste   ADP     em este case    280
+mundo   NOUN    mundo   obl     120
+do      ADP     de o    case    8
+turismo NOUN    turismo nmod    2200
+literário       ADJ     literário       amod    8134
+?       PUNCT   ?       punct   49
+
+Entrevistado:   VERB    MISC    ROOT    500013
+
+Bem     ADV     bem     advmod  1855
+eu      PRON    eu      nsubj   63
+vim     VERB    vim     advcl   5911
+para    ADP     para    case    11
+aqui    ADV     aqui    advmod  140
+porque  SCONJ   porque  mark    128
+precisava       VERB    precisar        advcl   3968
+de      SCONJ   de      mark    2
+trabalhar       VERB    trabalhar       xcomp   698
+precisava       VERB    precisar        xcomp   3968
+de      ADP     de      case    2
+emprego NOUN    emprego obj     1323
+e       CCONJ   e       cc      4
+pronto  ADJ     pronto  conj    2008
+havia   VERB    haver   advcl   395
+esta    DET     este    det     147
+vaga    NOUN    vaga    nsubj   1832
+puseram VERB    puser   ROOT    30293
+me      PRON    eu      det     86
+aqui    ADV     aqui    advmod  140
+não     ADV     não     advmod  21
+sabia   VERB    saber   parataxis       1550
+exatamente      ADV     exatamente      advmod  1358
+para    ADP     para    case    11
+o       PRON    o       obl     6
+que     PRON    que     nsubj   7
+vinha   VERB    vir     acl:relcl       3650
+mas     CCONJ   mas     cc      44
+depressa        ADV     depressa        advmod  11471
+me      PRON    eu      obj     86
+adaptei VERB    adaptar conj    57593
+e       CCONJ   e       cc      4
+depressa        ADV     depressa        advmod  11471
+me      PRON    eu      obj     86
+apaixonei       VERB    apaixonei       conj    16463
+posso   VERB    poder   conj    1067
+falar   VERB    falar   xcomp   409
+mesmo   ADV     mesmo   advmod  66
+assim   ADV     assim   advmod  117
+apaixonei-me    VERB    apaixonei-me    advcl   109250
+pelo    ADP     por o   case    45
+serviço NOUN    serviço obl     310
+que     PRON    que     nsubj   7
+faço    VERB    fazer   acl:relcl       1993
+o       DET     o       det     6
+mundo   NOUN    mundo   obj     120
+literário       ADJ     literário       amod    8134
+é       VERB    ser     conj    14
+assim   ADV     assim   advmod  117
+…       PUNCT   …       punct   124
+
+eu      PRON    eu      nsubj   63
+faço    VERB    fazer   ROOT    1993
+a       DET     o       det     5
+absorção        NOUN    absorção        obj     6175
+dos     ADP     de o    case    30
+romances        NOUN    romance nmod    7723
+consoante       ADJ     consoante       amod    12533
+o       PRON    o       appos   6
+que     PRON    que     obj     7
+eu      PRON    eu      nsubj   63
+conheço VERB    conheçar        acl:relcl       4627
+,       PUNCT   ,       punct   0
+não     ADV     não     advmod  21
+posso   VERB    poder   conj    1067
+fazer   VERB    fazer   xcomp   82
+uma     DET     um      det     15
+análise NOUN    análise obj     711
+crítica ADJ     crítico amod    1973
+porque  SCONJ   porque  mark    128
+não     ADV     não     advmod  21
+tenho   VERB    ter     advcl   301
+formação        NOUN    formação        obj     563
+académica       ADJ     académico       amod    24046
+para    ADP     para    case    11
+isso    PRON    isso    obl     70
+mas     CCONJ   mas     cc      44
+tenho   VERB    ter     conj    301
+a       DET     o       det     5
+formação        NOUN    formação        obj     563
+pessoal ADJ     pessoal amod    607
+e       CCONJ   e       cc      4
+penso   VERB    pensar  conj    3870
+que     SCONJ   que     mark    7
+me      PRON    eu      obj     86
+tenho   AUX     ter     aux     301
+dado    VERB    dar     ccomp   1250
+bem     ADV     bem     advmod  69
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Então   ADV     então   advmod  591
+relacionado     VERB    relacionar      ROOT    4044
+á       ADP     á       case    2736
+próxima ADJ     próximo amod    859
+pergunta        NOUN    pergunta        obj     1671
+.       PUNCT   .       punct   3
+
+Gosta   NOUN    Gosta   ROOT    21779
+do      PRON    de o    obj     8
+que     PRON    que     obj     7
+faz     VERB    fazer   acl:relcl       188
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    acl     100066
+:       PUNCT   :       punct   27
+Gosto   VERB    Gostar  parataxis       5220
+muito   ADV     muito   advmod  50
+,       PUNCT   ,       punct   0
+gosto   VERB    gostar  ROOT    828
+muito   ADV     muito   advmod  50
+do      ADP     de o    mark    8
+que     PRON    que     fixed   7
+faço    VERB    fazer   advcl   1993
+espero  VERB    esperar csubj   2525
+que     SCONJ   que     mark    7
+me      PRON    eu      iobj    86
+deixem  VERB    deixar  ccomp   9530
+continuar       VERB    continuar       xcomp   1182
+a       SCONJ   a       mark    5
+fazer   VERB    fazer   xcomp   82
+o       PRON    o       obj     6
+que     PRON    que     obj     7
+faço    VERB    fazer   acl:relcl       1993
+por     ADP     por     case    22
+mais    ADV     mais    advmod  25
+alguns  DET     algum   det     168
+anos    NOUN    ano     obl     64
+.       PUNCT   .       punct   3
+
+Entrevistador: Gosta    NOUN    MISC    ROOT    500014
+do      ADP     de o    case    8
+turismo NOUN    turismo nmod    2200
+literário       ADJ     literário       amod    8134
+em      ADP     em      case    10
+geral   ADJ     geral   nmod    431
+não     ADV     não     advmod  21
+só      ADV     só      fixed   96
+nesta   ADP     em este case    290
+casa    NOUN    casa    nmod    142
+Entrevistado    VERB    MISC    acl     100066
+:       PUNCT   :       punct   27
+
+Sem     ADP     sem     case    994
+dúvida  NOUN    dúvida  ROOT    1103
+!       PUNCT   !       punct   38
+
+Eu      PRON    eu      nsubj   171
+acho    VERB    achar   ROOT    697
+o       DET     o       det     6
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+absolutamente   ADV     absolutamente   advmod  3852
+prioritário     ADJ     prioritário     amod    24561
+até     ADV     até     advmod  59
+não     ADV     não     advmod  21
+é       AUX     ser     advcl   14
+,       PUNCT   ,       punct   0
+na      ADP     em o    case    20
+nossa   DET     nosso   det     190
+cultura NOUN    cultura obl     676
+e       CCONJ   e       cc      4
+o       PRON    o       conj    6
+que     PRON    que     nsubj   7
+faz     VERB    fazer   acl:relcl       188
+com     ADP     com     mark    12
+que     SCONJ   que     mark    7
+a       DET     o       det     5
+gente   NOUN    gente   nsubj   309
+tenha   VERB    ter     advcl   386
+mais    DET     mais    det     25
+conhecimento    NOUN    conhecimento    obj     492
+e       CCONJ   e       cc      4
+melhor  ADJ     bom     amod    118
+conhecimento    NOUN    conhecimento    conj    492
+dos     ADP     de o    case    30
+nossos  DET     nosso   det     333
+autores NOUN    autor   nmod    1880
+.       PUNCT   .       punct   3
+
+Entrevistador:  NOUN    MISC    ROOT    500015
+
+Pratica VERB    pratica ROOT    75944
+o       DET     o       det     6
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+fora    ADV     fora    advmod  326
+do      ADP     de o    case    8
+trabalho        NOUN    trabalho        obl     113
+?       PUNCT   ?       punct   49
+
+E       CCONJ   e       cc      79
+se      SCONJ   se      mark    24
+sim     ADV     sim     advmod  445
+algum   DET     algum   det     379
+lugar   NOUN    lugar   ROOT    221
+específico      ADJ     específico      amod    2580
+que     PRON    que     nsubj   7
+gosta   VERB    gostar  acl:relcl       1418
+mais    ADV     mais    advmod  25
+de      ADP     de      mark    2
+visitar VERB    visitar xcomp   2122
+?       PUNCT   ?       punct   49
+Entrevistado    VERB    Entrevistado    acl     100066
+:       PUNCT   :       punct   27
+
+Também  ADV     também  advmod  629
+,       PUNCT   ,       punct   0
+também  ADV     também  advmod  48
+claro   ADV     claro   ROOT    597
+que     SCONJ   que     mark    7
+o       DET     o       det     6
+tempo   NOUN    tempo   nsubj   85
+me      PRON    eu      obj     86
+ocupa   VERB    ocupar  ccomp   5263
+quase   ADV     quase   advmod  303
+todo    PRON    todo    obj     131
+no      ADP     em o    case    16
+meu     DET     meu     det     137
+trabalho        NOUN    trabalho        obl     113
+,       PUNCT   ,       punct   0
+mas     CCONJ   mas     cc      44
+tenho   VERB    ter     conj    301
+atividades      NOUN    atividade       obj     361
+extratrabalho   ADJ     extratrabalho   amod    18446744073709551615
+ligadas VERB    ligar   acl     5148
+ao      ADP     a o     case    32
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+nomeadamente    ADV     nomeadamente    advmod  3914
+o       DET     o       det     6
+teatro  NOUN    teatro  obl     2262
+,       PUNCT   ,       punct   0
+um      DET     um      det     13
+teatro  NOUN    teatro  appos   2262
+amador  ADJ     amador  amod    6544
+aqui    ADV     aqui    advmod  140
+da      ADP     de o    case    9
+Freguesia       PROPN   LOC     obl     8484
+intitulado      VERB    intitular       acl     5729
+“       PUNCT   “       punct   39
+Bertraca        PROPN   LOC     appos   500016
+”       PROPN   ”       punct   40
+teatro  NOUN    teatro  appos   2262
+amador  ADJ     amador  amod    6544
+
+Camiliano       PROPN   PER     nsubj   500017
+tenho   VERB    ter     advcl   301
+a       DET     o       det     5
+honra   NOUN    honra   obj     3529
+de      SCONJ   de      mark    2
+os      PRON    eles    obj     18
+estar   VERB    estar   acl     238
+a       SCONJ   a       mark    5
+ensaiar VERB    ensaiar xcomp   36463
+e       CCONJ   e       cc      4
+temos   AUX     ter     aux     375
+encenado        VERB    encenar conj    51166
+varias  ADJ     vario   det     7801
+peças   NOUN    peça    obj     885
+de      ADP     de      case    2
+Camilo Castelo Branco   PROPN   PER     nmod    500010
+,       PUNCT   ,       punct   0
+isto    PRON    isto    nsubj   534
+também  ADV     também  advmod  48
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+forma   NOUN    forma   nsubj   94
+de      ADP     de      case    2
+turismo NOUN    turismo nmod    2200
+literário       ADJ     literário       amod    8134
+dar     VERB    dar     acl     255
+atenção NOUN    atenção obj     523
+que     PRON    que     mark    7
+o       DET     o       det     6
+Camilo  PROPN   PER     nsubj:pass      9566
+é       AUX     ser     aux:pass        14
+conhecido       VERB    conhecer        acl:relcl       781
+pela    ADP     por o   case    51
+prosa   NOUN    prosa   obl     13800
+não     ADV     não     advmod  21
+propiamente     ADJ     propiamente     amod    18446744073709551615
+pelo    ADP     por o   case    45
+teatro  NOUN    teatro  obl     2262
+e       CCONJ   e       cc      4
+pela    ADP     por o   case    51
+poesia  NOUN    poesia  conj    3458
+ele     PRON    ele     nsubj   62
+tem     VERB    ter     ROOT    52
+muita   DET     muito   det     414
+poesia  NOUN    poesia  obj     3458
+muito   DET     muito   advmod  50
+teatro  NOUN    teatro  obj     2262
+muito   ADV     muito   advmod  50
+jornalismo      NOUN    jornalismo      amod    5191
+mas     CCONJ   mas     cc      44
+é       AUX     ser     cop     14
+mais    ADV     mais    advmod  25
+reconhecido     VERB    reconhecer      conj    3965
+pela    ADP     por o   case    51
+prosa   NOUN    prosa   obl     13800
+de      ADP     de      case    2
+qualquer        DET     qualquer        det     133
+forma   NOUN    forma   nmod    94
+o       DET     o       det     6
+teatro  NOUN    teatro  obj     2262
+de      ADP     de      case    2
+Camilo  PROPN   PER     nmod    9566
+também  ADV     também  advmod  48
+é       AUX     ser     cop     14
+riquíssimo      ADJ     riquíssimo      conj    39382
+,       PUNCT   ,       punct   0
+temos   AUX     ter     aux     375
+feito   VERB    fazer   conj    335
+varias  ADJ     vario   det     7801
+peça    NOUN    peça    obj     1189
+de      ADP     de      case    2
+teatro  NOUN    teatro  nmod    2262
+,       PUNCT   ,       punct   0
+temos   AUX     ter     aux     375
+feito   VERB    fazer   conj    335
+várias  DET     várias  det     377
+caminhadas      NOUN    caminhada       obj     11111
+no      ADP     em o    case    16
+exterior        NOUN    exterior        obl     1816
+com     ADP     com     case    12
+encenações      NOUN    encenação       obl     56068
+e       CCONJ   e       cc      4
+leituras        NOUN    leitura conj    7491
+por     ADP     por     case    22
+isso    PRON    isso    obl     70
+isto    PRON    isto    obj     534
+também  ADV     também  advmod  48
+uma     DET     um      det     15
+forma   NOUN    forma   obj     94
+de      ADP     de      case    2
+turismo NOUN    turismo nmod    2200
+literário       ADJ     literário       amod    8134
+Entrevistador   NOUN    MISC    nmod    160951
+:       PUNCT   :       punct   27
+
+Alguma  DET     Alguma  det     17884
+casa    NOUN    casa    ROOT    142
+de      ADP     de      case    2
+outro   DET     outro   det     167
+escritor        NOUN    escritor        nmod    2386
+que     PRON    que     nsubj   7
+goste   VERB    gostar  acl:relcl       10265
+muito   ADV     muito   advmod  50
+de      SCONJ   de      mark    2
+visitar VERB    visitar xcomp   2122
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+(       PUNCT   (       punct   19
+Cães    PROPN   LOC     nsubj   20746
+começam VERB    começar parataxis       3082
+a       SCONJ   a       mark    5
+ladrar  VERB    ladrar  xcomp   108555
+)       PUNCT   )       punct   17
+
+A       DET     o       det     31
+casa    NOUN    casa    ROOT    142
+do      ADP     de o    case    8
+Eça de Queiroz  PROPN   PER     nmod    500018
+,       PUNCT   ,       punct   0
+a       DET     o       det     5
+Casa de Tormes  PROPN   PER     conj    500019
+naturalmente    ADV     naturalmente    advmod  3738
+,       PUNCT   ,       punct   0
+Miguel Torga    PROPN   PER     appos   500020
+e       CCONJ   e       cc      4
+mais    ADV     mais    advmod  25
+a       DET     o       case    5
+casa    NOUN    casa    conj    142
+do      ADP     de o    case    8
+Amaranto        PROPN   LOC     nmod    142909
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+Não     ADV     não     advmod  102
+tem     AUX     ter     aux     52
+que     SCONJ   que     mark    7
+ser     AUX     ser     cop     36
+só      ADV     só      advmod  96
+uma     DET     um      det     15
+casa    NOUN    casa    appos   142
+a       ADP     a       det     5
+Cadeia da Relação       PROPN   LOC     nmod    500021
+por     ADP     por     nmod    22
+exemplo NOUN    exemplo fixed   228
+.       PUNCT   .       punct   3
+
+Entrevistado:   VERB    MISC    ROOT    500013
+
+A       DET     o       det     31
+Cadeira PROPN   Cadeira ROOT    22171
+da      ADP     de o    case    9
+Relação PROPN   Relação nmod    10980
+!       PUNCT   !       punct   38
+!       PUNCT   !       punct   38
+
+!       PUNCT   !       ROOT    38
+
+Portanto        ADV     portanto        advmod  1534
+são     AUX     ser     cop     46
+locais  ADJ     local   advcl   779
+,       PUNCT   ,       punct   0
+estou   VERB    estar   ROOT    381
+a       SCONJ   a       mark    5
+falar   VERB    falar   xcomp   409
+especificamente ADV     especificamente advmod  3963
+só      ADV     só      advmod  96
+de      ADP     de      fixed   2
+…       PUNCT   …       punct   124
+,       PUNCT   ,       punct   0
+a       DET     o       det     5
+casa    NOUN    casa    nsubj   142
+de      ADP     de      case    2
+Ferreira de Castro      PROPN   PER     nmod    500022
+em      ADP     em      case    10
+Oliveira de Azeméis     PROPN   LOC     nmod    500023
+também  ADV     também  advmod  48
+conheço VERB    conhecer        conj    4627
+muito   ADV     muito   advmod  50
+bem     ADV     bem     advmod  69
+em      ADP     em      case    10
+Vila de Conde   PROPN   LOC     obl     500024
+a       PROPN   a       flat:name       5
+de      ADP     de      case    2
+José R
+        PROPN   PER     nmod    500025
+
+Entrevistador   NOUN    Entrevistador   ROOT    160951
+:       PUNCT   :       punct   27
+
+Então   ADV     então   advmod  591
+em      ADP     em      case    10
+que     SCONJ   que     obl     7
+consiste        VERB    consistir       ROOT    2521
+o       DET     o       det     6
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+?       PUNCT   ?       punct   49
+
+Não     ADV     não     advmod  102
+estou   AUX     estar   cop     381
+há      VERB    haver   ROOT    114
+procura NOUN    procura obj     1172
+como    ADV     como    mark    29
+já      ADV     já      advmod  57
+disse   VERB    dizer   acl     204
+de      ADP     de      case    2
+uma     DET     um      det     15
+definição       NOUN    definição       obj     2128
+científica      ADJ     científico      amod    2308
+,       PUNCT   ,       punct   0
+mas     CCONJ   mas     cc      44
+para    ADP     para    mark    11
+você    PRON    você    nsubj   54
+se      PRON    se      expl    24
+pudesse VERB    poder   conj    3335
+descrever       VERB    descrever       xcomp   5658
+em      ADP     em      case    10
+que     PRON    que     obl     7
+consiste        VERB    consistir       ccomp   2521
+o       DET     o       det     6
+turismo NOUN    turismo nsubj   2200
+literário       ADJ     literário       amod    8134
+?       PUNCT   ?       punct   49
+
+Entrevistado:   VERB    MISC    ROOT    500013
+
+Sabe    VERB    saber   ROOT    5360
+eu      PRON    eu      nsubj   63
+penso   VERB    pensar  ccomp   3870
+que     SCONJ   que     mark    7
+o       DET     o       det     6
+turismo NOUN    turismo nsubj   2200
+literário       ADJ     literário       amod    8134
+consiste        VERB    consistir       ccomp   2521
+na      ADP     em o    case    20
+aproximação     NOUN    aproximação     obj     6035
+de      ADP     de      case    2
+pessoas NOUN    pessoa  nmod    87
+e       CCONJ   e       cc      4
+sobretudo       ADV     sobretudo       advmod  1788
+de      ADP     de      case    2
+conhecimento    NOUN    conhecimento    conj    492
+não     ADV     não     advmod  21
+é       AUX     ser     conj    14
+?       PUNCT   ?       punct   49
+
+Uma     DET     um      det     209
+pessoa  NOUN    pessoa  nsubj   244
+que     PRON    que     nsubj   7
+se      PRON    se      expl    24
+interesse       NOUN    interessar      acl:relcl       770
+pela    ADP     por o   case    51
+literatura      NOUN    literatura      nmod    1950
+têm     VERB    ter     ROOT    250
+necessariamente ADV     necessariamente advmod  4078
+vontade NOUN    vontade obj     672
+de      SCONJ   de      mark    2
+conhecer        VERB    conhecer        acl     636
+o       DET     o       det     6
+o       DET     o       det     6
+espaço  NOUN    espaço  obj     313
+do      ADP     de o    case    8
+autor   NOUN    autor   nmod    810
+onde    PRON    onde    obl     92
+ele     PRON    ele     nsubj   62
+viveu   VERB    viver   acl:relcl       4772
+e       CCONJ   e       cc      4
+por     ADP     por     case    22
+onde    PRON    onde    obl     92
+ele     PRON    ele     nsubj   62
+passou  VERB    passar  conj    616
+,       PUNCT   ,       punct   0
+e       CCONJ   e       cc      4
+se      SCONJ   se      mark    24
+esses   DET     esse    det     457
+espaços NOUN    espaço  nsubj:pass      1764
+forem   AUX     ser     aux:pass        3115
+devidamente     ADV     devidamente     advmod  3616
+explorados      VERB    explorar        conj    19454
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+atração NOUN    atração obj     4021
+muito   ADV     muito   advmod  50
+interessante    ADJ     interessante    amod    1105
+para    SCONJ   para    mark    11
+quem    PRON    quem    nsubj   129
+procura VERB    procurar        advcl   1172
+,       PUNCT   ,       punct   0
+para    SCONJ   para    mark    11
+quem    PRON    quem    nsubj   129
+conhece VERB    conhecer        advcl   1907
+para    SCONJ   para    mark    11
+quem    PRON    quem    nsubj   129
+não     ADV     não     advmod  21
+conhece VERB    conhecer        advcl   1907
+fica    VERB    ficar   xcomp   312
+a       SCONJ   a       mark    5
+conhecer        VERB    conhecer        xcomp   636
+nos     PRON    nós     mark    53
+temos   VERB    ter     advcl   375
+por     ADP     por     case    22
+exemplo NOUN    exemplo obl     228
+um      DET     um      det     13
+trilho  NOUN    trilho  obj     22339
+o       DET     o       det     6
+trilho  NOUN    trilho  obj     22339
+em      ADP     em      case    10
+si      PRON    si      obl     551
+até     ADV     até     advmod  59
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+muito   ADV     muito   advmod  50
+atrativo        ADJ     atrativo        advcl   11409
+mas     CCONJ   mas     cc      44
+o       PRON    o       conj    6
+que     PRON    que     nsubj   7
+torna   VERB    tornar  acl:relcl       1351
+interessante    ADJ     interessante    xcomp   1105
+o       DET     o       det     6
+trilho  NOUN    trilho  nsubj   22339
+são     AUX     ser     cop     46
+as      DET     o       det     23
+referencias     NOUN    referencia      obj     39137
+que     PRON    que     obj     7
+Camilo  PROPN   PER     nsubj   9566
+faz     VERB    fazer   acl:relcl       188
+durante ADP     durante case    151
+o       DET     o       det     6
+percurso        NOUN    percurso        obl     3215
+.       PUNCT   .       punct   3
+
+Não     ADV     não     advmod  102
+sei     VERB    saber   ROOT    558
+se      SCONJ   se      mark    24
+já      ADV     já      advmod  57
+fez     VERB    fazer   ccomp   294
+o       DET     o       det     6
+trilho  NOUN    trilho  obj     22339
+alguma  DET     algum   det     410
+vez     NOUN    vez     obl     108
+?       PUNCT   ?       punct   49
+
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+Acho    VERB    achar   ROOT    1735
+que     SCONJ   que     mark    7
+não     ADV     não     ccomp   21
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Nós     PRON    nós     nsubj   1115
+fomos   VERB    ser     ROOT    2730
+ás      ADP     ás      case    7392
+“       PUNCT   “       punct   39
+Novelas do Minho        PROPN   MISC    obl     500026
+”       PUNCT   ”       punct   40
+,       PUNCT   ,       punct   0
+“       PUNCT   “       punct   39
+A Brasileira de Prazins PROPN   MISC    dep     500006
+”       PUNCT   ”       punct   40
+,       PUNCT   ,       punct   0
+“       PUNCT   “       punct   39
+Maria Moisés    PROPN   PER     appos   500008
+”       PROPN   ”       punct   40
+“       PUNCT   “       punct   39
+
+A Bruxa de Monte Córdova        PROPN   MISC    nsubj   500027
+”       PUNCT   ”       punct   40
+buscar  VERB    buscar  ROOT    1815
+alguns  DET     algum   det     168
+diálogos        NOUN    diálogo obj     9224
+para    SCONJ   para    mark    11
+encenar VERB    encenar advcl   60313
+no      ADP     em o    case    16
+percurso        NOUN    percurso        obl     3215
+encenar VERB    encenar xcomp   60313
+e       CCONJ   e       cc      4
+ler     VERB    ler     conj    739
+portanto        CCONJ   portanto        obj     1022
+e       CCONJ   e       cc      4
+isso    PRON    isso    nsubj   70
+foi     AUX     ser     cop     35
+fundamental     ADJ     fundamental     conj    987
+para    SCONJ   para    mark    11
+que     SCONJ   que     mark    7
+houvesse        VERB    houvesse        advcl   7131
+uma     DET     um      det     15
+atração NOUN    atração obj     4021
+do      ADP     de o    case    8
+público NOUN    público nmod    276
+e       CCONJ   e       cc      4
+funcionou       VERB    funcionar       conj    9172
+a       DET     o       det     5
+primeira        ADJ     primeiro        amod    166
+vez     NOUN    vez     obl     108
+que     SCONJ   que     mark    7
+fiz     VERB    fiz     ccomp   1175
+o       DET     o       det     6
+trilho  NOUN    trilho  obj     22339
+tinha   VERB    ter     conj    203
+trezentas       NOUN    trezentas       obj     54864
+e       CCONJ   e       cc      4
+tal     DET     tal     det     399
+pessoas NOUN    pessoa  conj    87
+,       PUNCT   ,       punct   0
+claro   ADV     claro   advmod  597
+que     SCONJ   que     mark    7
+teve    VERB    ter     aux     305
+que     SCONJ   que     mark    7
+se      PRON    se      nsubj   24
+mobilizar       VERB    mobilizar       csubj   14475
+o       DET     o       det     6
+serviço NOUN    serviço obj     310
+e       CCONJ   e       cc      4
+tal     ADV     tal     conj    399
+mas     CCONJ   mas     cc      44
+se      SCONJ   se      mark    24
+houver  VERB    haver   conj    3179
+publicidade     NOUN    publicidade     obj     3270
+fazer   VERB    fazer   csubj   82
+o       DET     o       det     6
+trilho  NOUN    trilho  obj     22339
+com     ADP     com     case    12
+uma     DET     um      det     15
+imagem  NOUN    imagem  obl     614
+devidamente     ADV     devidamente     advmod  3616
+apropriada      ADJ     apropriado      acl     12187
+para    ADP     para    case    11
+o       DET     o       det     6
+efeitos NOUN    efeito  obl     984
+as      DET     o       det     23
+pessoas NOUN    pessoa  obj     87
+obviamente      ADV     obviamente      advmod  5389
+que     SCONJ   que     mark    7
+nesta   ADP     em este case    290
+altura  NOUN    altura  obl     989
+não     ADV     não     advmod  21
+podemos VERB    poder   ccomp   690
+fazer   VERB    fazer   xcomp   82
+nada    PRON    nada    obj     220
+mas     CCONJ   mas     cc      44
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+aparecem        VERB    aparecer        conj    3669
+Entrevistador   NOUN    MISC    obj     160951
+:       PUNCT   :       punct   27
+
+Então   ADV     então   advmod  591
+considera       VERB    considerar      ROOT    3406
+que     SCONJ   que     mark    7
+o       DET     o       det     6
+turismo NOUN    turismo nsubj   2200
+literário       ADJ     literário       amod    8134
+especialmente   ADV     especialmente   advmod  916
+numa    ADP     em um   case    300
+altura  NOUN    altura  ccomp   989
+em      ADP     em      case    10
+que     PRON    que     obl     7
+se      PRON    se      nsubj   24
+Vê      VERB    LOC     acl:relcl       25567
+menos   ADV     menos   advmod  165
+jovens  ADJ     jovem   nsubj   785
+a       SCONJ   a       mark    5
+gostar  VERB    gostar  advcl   3470
+de      ADP     de      case    2
+literatura      NOUN    literatura      obl     1950
+que     PRON    que     nsubj   7
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+boa     ADJ     bom     amod    297
+maneira NOUN    maneira csubj   367
+de      SCONJ   de      mark    2
+juntar  VERB    juntar  acl     4861
+pessoas NOUN    pessoa  obj     87
+com     ADP     com     case    12
+os      DET     o       det     18
+mesmos  ADJ     mesmo   amod    1146
+gostos  NOUN    gosto   nmod    7085
+até     ADV     até     advmod  59
+para    SCONJ   para    mark    11
+se      PRON    se      expl    24
+conhecerem      VERB    conhecer        advcl   17619
+terem   VERB    ter     xcomp   1879
+uma     DET     um      det     15
+atração NOUN    atração obj     4021
+em      ADP     em      case    10
+comum   ADJ     comum   obl     643
+Entrevistado:   VERB    MISC    xcomp   500013
+
+Sabe    VERB    saber   cc      5360
+eu      PRON    eu      nsubj   63
+não     ADV     não     advmod  21
+sei     VERB    saber   ccomp   558
+se      SCONJ   se      mark    24
+concordo        VERB    concordo        ccomp   7463
+muito   ADV     muito   advmod  50
+consigo VERB    consigo obj     1698
+quando  ADV     quando  mark    71
+diz     VERB    dizer   advcl   274
+que     SCONJ   que     mark    7
+os      DET     o       det     18
+jovens  NOUN    jovem   nsubj   785
+e       CCONJ   e       cc      4
+interessem      VERB    interer ccomp   51964
+menos   ADV     menos   advmod  165
+com     ADP     com     case    12
+a       DET     o       det     5
+literatura      NOUN    literatura      obl     1950
+sinceramente    ADV     sinceramente    advmod  8623
+não     ADV     não     advmod  21
+sei     VERB    saber   csubj   558
+porque  SCONJ   porque  mark    128
+a       DET     o       det     5
+experiência     NOUN    experiência     nsubj   404
+que     PRON    que     obj     7
+eu      PRON    eu      nsubj   63
+tenho   VERB    ter     advcl   301
+aqui    ADV     aqui    advmod  140
+eu      PRON    eu      nsubj   63
+recebo  VERB    receber ccomp   14304
+aqui    ADV     aqui    advmod  140
+muitas  DET     muito   det     245
+escolas NOUN    escola  obj     1089
+como    ADV     como    advmod  29
+pode    VERB    poder   ccomp   60
+compreender     VERB    compreender     xcomp   2649
+temos   VERB    ter     ccomp   375
+a       DET     o       det     5
+sorte   NOUN    sorte   obj     1972
+que     PRON    que     nsubj:pass      7
+o       DET     o       det     6
+“       PROPN   “       nsubj:pass      39
+Amor de Perdição        PROPN   MISC    flat:name       500028
+“       PUNCT   “       flat:name       39
+é       AUX     ser     aux:pass        14
+estudado        VERB    estudar acl:relcl       10519
+também  ADV     também  advmod  48
+no      ADP     em o    case    16
+décimo  NOUN    décimo  obl     9152
+primeiro        ADJ     primeiro        amod    153
+e       CCONJ   e       cc      4
+a       DET     o       det     5
+experiencia     NOUN    experiencia     conj    12757
+que     PRON    que     obj     7
+eu      PRON    eu      nsubj   63
+tenho   VERB    ter     acl:relcl       301
+é       AUX     ser     cop     14
+que     SCONJ   que     fixed   7
+os      PRON    o       nsubj   18
+que     PRON    que     obj     7
+os      DET     o       det     18
+alunos  NOUN    aluno   nsubj   486
+vêm     VERB    vir     acl:relcl       2963
+com     ADP     com     case    12
+interesse       NOUN    interesse       obl     770
+e       CCONJ   e       cc      4
+saem    VERB    sair    conj    6122
+daqui   ADV     de aqui advmod  3099
+com     ADP     com     case    12
+vontade NOUN    vontade obl     672
+de      SCONJ   de      mark    2
+ler     VERB    ler     acl     739
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+,       PUNCT   ,       punct   0
+portanto        CCONJ   portanto        cc      1022
+penso   VERB    pensar  conj    3870
+que     SCONJ   que     mark    7
+os      DET     o       det     18
+jovens  NOUN    jovem   nsubj   785
+nem     CCONJ   nem     cc      180
+todos   PRON    todo    conj    75
+mas     CCONJ   mas     cc      44
+de      ADP     de      case    2
+qualquer        DET     qualquer        det     133
+forma   NOUN    forma   conj    94
+estão   AUX     estar   cop     121
+interessados    ADJ     interessado     ccomp   2283
+,       PUNCT   ,       punct   0
+e       CCONJ   e       cc      4
+o       DET     o       det     6
+turismo NOUN    turismo nsubj   2200
+literário       ADJ     literário       amod    8134
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+forma   NOUN    forma   conj    94
+de      SCONJ   de      mark    2
+os      PRON    eles    obj     18
+aproximar       VERB    aproximar       acl     6491
+sem     ADP     sem     case    74
+dúvida  NOUN    dúvida  obl     1103
+na      ADP     em o    case    20
+nossa   DET     nosso   det     190
+cultura NOUN    cultura nmod    676
+e       CCONJ   e       cc      4
+nos     ADP     em o    case    53
+nossos  PRON    nosso   conj    333
+…       PUNCT   …       punct   124
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Apesar  ADV     apesar  mark    891
+de      ADP     de      fixed   2
+tudo    PRON    tudo    obj     109
+eu      PRON    eu      nsubj   63
+disse   VERB    dizer   advcl   204
+aquilo  PRON    aquilo  obj     1238
+mas     CCONJ   mas     cc      44
+apesar  ADV     apesar  case    787
+de      ADP     de      fixed   2
+tudo    PRON    tudo    fixed   109
+aos     ADP     a o     case    81
+pouquinhos      NOUN    pouquinho       obl     59183
+há      VERB    haver   advcl   114
+cada    DET     cada    obj     104
+vez     ADP     vez     case    108
+mais    NOUN    mais    obl     25
+,       PUNCT   ,       punct   0
+o       PRON    o       nsubj   6
+que     PRON    que     nsubj   7
+passava VERB    passar  acl:relcl       5135
+a       SCONJ   a       mark    5
+ser     AUX     ser     cop     36
+estranho        ADJ     estranho        xcomp   3193
+há      VERB    haver   advcl   114
+cinco   NUM     cinco   nummod  489
+anos    NOUN    ano     obj     64
+havia   VERB    haver   advcl   395
+muita   DET     muito   det     414
+pouca   DET     pouco   det     3299
+gente   NOUN    gente   nsubj   309
+e       CCONJ   e       cc      4
+quem    PRON    quem    nsubj   129
+lia     VERB    lir     conj    15515
+era     AUX     ser     cop     95
+um      DET     um      det     13
+bocado  NOUN    bocado  obj     11939
+ostracizado     VERB    ostracizar      acl     263475
+por     ADP     por     case    22
+outros  PRON    outro   obl:agent       107
+mas     CCONJ   mas     cc      44
+ao      ADP     a o     case    32
+porquinhos      NOUN    porquinhos      conj    56300
+isso    PRON    isso    nsubj   70
+está    VERB    estar   ROOT    58
+a       SCONJ   a       mark    5
+mudar   VERB    mudar   xcomp   1047
+e       CCONJ   e       cc      4
+sem     SCONJ   sem     mark    74
+querer  VERB    querer  conj    1953
+usar    VERB    usar    xcomp   388
+o       DET     o       det     6
+termos  NOUN    termos  obj     719
+“       PUNCT   “       punct   39
+das     ADP     de o    case    34
+artes   NOUN    arte    obl     2955
+”       PUNCT   ”       punct   40
+é       AUX     ser     cop     14
+cada    NOUN    cada    conj    104
+vez     ADP     vez     case    108
+mais    ADV     mais    advmod  25
+comum   ADJ     comum   amod    643
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Mais    ADV     mais    advmod  477
+comum   ADJ     comum   ROOT    643
+,       PUNCT   ,       punct   0
+mas     CCONJ   mas     cc      44
+também  ADV     também  advmod  48
+depende VERB    depender        conj    2265
+muito   ADV     muito   advmod  50
+do      ADP     de o    case    8
+professor       NOUN    professor       obj     795
+e       CCONJ   e       cc      4
+de      SCONJ   de      case    2
+quem    PRON    quem    obj     129
+ensina  VERB    ensinar conj    4999
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+Acha    VERB    achar   ROOT    26498
+que     SCONJ   que     mark    7
+a       DET     o       det     5
+procura NOUN    procura nsubj   1172
+do      ADP     de o    case    8
+turismo NOUN    turismo nmod    2200
+literário       ADJ     literário       amod    8134
+em Portugal     PROPN   LOC     nmod    500029
+no      ADP     em o    case    16
+panorama        NOUN    panorama        nmod    8398
+do      ADP     de o    case    8
+turismo NOUN    turismo nmod    2200
+se      PRON    se      expl    24
+é       AUX     ser     cop     14
+muito   ADV     muito   ccomp   50
+ou      CCONJ   ou      cc      33
+pouco   ADV     pouco   advmod  182
+procurado       VERB    procurar        conj    9023
+pelos   ADP     por o   case    186
+Portugueses     PROPN   LOC     obl:agent       14169
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Bem     ADV     bem     advmod  1855
+,       PUNCT   ,       punct   0
+eu      PRON    eu      nsubj   63
+posso   VERB    poder   advcl   1067
+dizer   VERB    dizer   xcomp   318
+que     SCONJ   que     mark    7
+esta    DET     este    det     147
+casa    NOUN    casa    nsubj   142
+sendo   AUX     ser     cop     139
+um      DET     um      det     13
+museu   NOUN    museu   nsubj   4055
+municipal       ADJ     municipal       amod    1696
+não     ADV     não     advmod  21
+estamos VERB    estar   ROOT    655
+a       SCONJ   a       mark    5
+falar   VERB    falar   xcomp   409
+de      ADP     de      case    2
+um      DET     um      det     13
+museu   NOUN    museu   obj     4055
+de      ADP     de      case    2
+arte    NOUN    arte    nmod    826
+antiga  ADJ     antigo  amod    1642
+,       PUNCT   ,       punct   0
+eu      PRON    eu      nsubj   63
+penso   VERB    pensar  dep     3870
+que     SCONJ   que     mark    7
+é       AUX     ser     cop     14
+uma     NUM     um      ccomp   15
+das     ADP     de o    case    34
+casas   NOUN    casa    nmod    1244
+museus  NOUN    museu   amod    7064
+mais    ADV     mais    advmod  25
+visitadas       ADJ     visitado        acl     24030
+do      ADP     de o    case    8
+país    NOUN    país    obl     207
+pelas   ADP     por o   case    321
+estatísticas    NOUN    estatística     obl     6480
+estou   VERB    estar   conj    381
+a       SCONJ   a       mark    5
+falar   VERB    falar   xcomp   409
+daqui   ADV     de aqui advmod  3099
+da      ADP     de o    case    9
+casa    NOUN    casa    obl     142
+eu      PRON    eu      nsubj   63
+faço    VERB    fazer   conj    1993
+o       DET     o       det     6
+relatório       NOUN    relatório       obj     1741
+todos   DET     todo    det     75
+os      DET     o       fixed   18
+anos    NOUN    ano     obl     64
+da      ADP     de o    case    9
+quantidade      NOUN    quantidade      nmod    792
+de      ADP     de      case    2
+pessoas NOUN    pessoa  nmod    87
+que     PRON    que     nsubj   7
+cá      ADV     cá      advmod  2217
+vem     VERB    vir     acl:relcl       347
+e       CCONJ   e       cc      4
+dá      VERB    dar     conj    382
+uma     DET     um      det     15
+media   NOUN    media   obj     8479
+de      ADP     de      case    2
+dez     NUM     dez     nummod  1113
+mil     NUM     mil     flat    264
+ou      CCONJ   ou      cc      33
+doze    NUM     doze    conj    4903
+mil     NUM     mil     flat    264
+pessoas NOUN    pessoa  nmod    87
+por     ADP     por     case    22
+ano     NOUN    ano     nmod    93
+ora     ADV     ora     advmod  4376
+eu      PRON    eu      nsubj   63
+não     ADV     não     advmod  21
+sei     VERB    saber   advcl   558
+se      SCONJ   se      dep     24
+e       CCONJ   e       cc      4
+muito   ADV     muito   conj    50
+ou      CCONJ   ou      dep     33
+se      SCONJ   se      dep     24
+é       AUX     ser     punct   14
+
+pouco   ADV     pouco   advmod  182
+eu      PRON    eu      nsubj   63
+acho    VERB    achar   ROOT    697
+que     SCONJ   que     mark    7
+é       AUX     ser     cop     14
+muito   ADV     muito   advmod  50
+bom     ADJ     bom     ccomp   216
+,       PUNCT   ,       punct   0
+agora   ADV     agora   advmod  193
+isto    PRON    isto    nsubj   534
+é       VERB    ser     cop     14
+á       ADP     á       case    2736
+medida  NOUN    medida  obl     791
+também  ADV     também  advmod  48
+do      ADP     de o    case    8
+país    NOUN    país    nmod    207
+que     PRON    que     nsubj   7
+temos   VERB    ter     acl:relcl       375
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+Acha    VERB    achar   ROOT    26498
+que     SCONJ   que     mark    7
+quando  ADV     quando  advmod  71
+entrou  VERB    entrar  ccomp   1793
+têm     VERB    ter     xcomp   250
+mais    DET     mais    det     25
+pessoas NOUN    pessoa  obj     87
+do      ADP     de o    case    8
+que     PRON    que     fixed   7
+a       DET     o       det     5
+sua     DET     seu     det     37
+expectativa     NOUN    expectativa     nmod    2460
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Tem     VERB    ter     csubj   1013
+este    PRON    este    obj     83
+é       AUX     ser     cop     14
+um      DET     um      det     13
+museu   NOUN    museu   nsubj   4055
+muito   ADV     muito   advmod  50
+visitado        VERB    visitar acl     13849
+agora   ADV     agora   advmod  193
+temos   VERB    ter     aux     375
+que     SCONJ   que     mark    7
+entender        VERB    entender        csubj   950
+o       DET     o       det     6
+seguinte        ADJ     seguinte        obj     633
+o       DET     o       det     6
+visitante       NOUN    visitante       nsubj   5581
+desta   ADP     de este case    261
+casa    NOUN    casa    nmod    142
+é       AUX     ser     cop     14
+um      DET     um      det     13
+visitante       NOUN    visitante       nsubj   5581
+selecionado     VERB    selecionar      acl     8274
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+de      ADP     de      case    2
+passagem        NOUN    passagem        ROOT    1566
+porque  SCONJ   porque  mark    128
+nem     ADV     nem     cc      180
+da      ADP     de o    case    9
+jeito   NOUN    jeito   obl     1322
+a       DET     o       det     5
+pessoa  NOUN    pessoa  nsubj   244
+vem     VERB    vir     advcl   347
+propositadamente        ADV     propositadamente        advmod  35985
+para    SCONJ   para    mark    11
+ver     VERB    ver     advcl   197
+a       DET     o       det     5
+casa    NOUN    casa    obj     142
+e       CCONJ   e       cc      4
+normalmente     ADV     normalmente     advmod  1620
+as      DET     o       det     23
+pessoas NOUN    pessoa  conj    87
+que     PRON    que     nsubj   7
+vem     VERB    vir     acl:relcl       347
+são     AUX     ser     cop     46
+pessoas NOUN    pessoa  conj    87
+que     PRON    que     nsubj   7
+sabem   VERB    saber   acl:relcl       1875
+pessoa  NOUN    pessoa  obj     244
+ligadas VERB    ligar   acl     5148
+ás      ADP     ás      case    7392
+letras  NOUN    letra   obj     2938
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Na      ADP     em o    case    145
+sua     DET     seu     det     37
+estimativa      NOUN    estimativa      obl     6532
+se      PRON    se      expl    24
+conseguisse     VERB    conseguir       ROOT    19112
+dar     VERB    dar     xcomp   255
+que     SCONJ   que     mark    7
+percentagem     NOUN    percentagem     nsubj   14443
+no      ADP     em o    case    16
+panorama        NOUN    panorama        nmod    8398
+do      ADP     de o    case    8
+turismo NOUN    turismo nmod    2200
+em Portugal     PROPN   LOC     nmod    500029
+é       AUX     ser     discourse       14
+que     SCONJ   que     mark    7
+representa      VERB    representar     ccomp   1417
+o       DET     o       det     6
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+?       PUNCT   ?       punct   49
+
+Entrevistado:   VERB    MISC    ROOT    500013
+
+Quer    VERB    querer  ROOT    3175
+dizer   VERB    dizer   xcomp   318
+eu      PRON    eu      nsubj   63
+não     ADV     não     advmod  21
+sei     VERB    saber   ccomp   558
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+Uma     DET     um      det     209
+estimativa      NOUN    estimativa      appos   6532
+Entrevistado:   VERB    MISC    acl     500013
+
+Uns     DET     Uns     det     16101
+dez     NUM     dez     nummod  1113
+porcento        NOUN    porcento        ROOT    50352
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Dez     NUM     dez     nummod  10137
+por     ADP     por     ROOT    22
+cento   NUM     cento   compound        2286
+.       PUNCT   .       punct   3
+
+Não     ADV     não     advmod  102
+que     SCONJ   que     mark    7
+há      VERB    haver   ROOT    114
+muitas  DET     muito   det     245
+casas   NOUN    casa    obj     1244
+ou      CCONJ   ou      cc      33
+museus  NOUN    museu   conj    7064
+ligadas VERB    ligar   acl     5148
+á       ADP     á       case    2736
+literatura      NOUN    literatura      obl     1950
+em Portugal     PROPN   LOC     obl     500029
+?       PUNCT   ?       punct   49
+
+Ou      CCONJ   ou      cc      978
+que     SCONJ   que     nsubj   7
+podia   VERB    poder   ROOT    1878
+haver   VERB    haver   xcomp   1765
+mais    ADV     mais    advmod  25
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Podia   PROPN   Podia   csubj   24539
+haver   VERB    haver   xcomp   1765
+mais    ADV     mais    advmod  25
+o       DET     o       det     6
+cuidado NOUN    cuidado nsubj   1359
+pronto  ADJ     pronto  amod    2008
+é       AUX     ser     cop     14
+o       PRON    o       obj     6
+que     PRON    que     obj     7
+eu      PRON    eu      nsubj   63
+digo    VERB    dizer   acl:relcl       3447
+eu      PRON    eu      nsubj   63
+falo    VERB    falar   ccomp   5920
+do      ADP     de o    case    8
+exemplo NOUN    exemplo obj     228
+que     PRON    que     mark    7
+eu      PRON    eu      nsubj   63
+tenho   VERB    ter     acl:relcl       301
+desta   ADP     de este case    261
+casa    NOUN    casa    obl     142
+e       CCONJ   e       cc      4
+eu      PRON    eu      nsubj   63
+acho    VERB    achar   conj    697
+que     SCONJ   que     mark    7
+esta    DET     este    det     147
+casa    NOUN    casa    nsubj   142
+sinceramente    ADV     sinceramente    advmod  8623
+é       AUX     ser     cop     14
+um      DET     um      det     13
+exemplo NOUN    exemplo ccomp   228
+nacional        ADJ     nacional        amod    536
+,       PUNCT   ,       punct   0
+ela     PRON    ele     nsubj   98
+já      ADV     já      advmod  57
+existe  VERB    existir acl:relcl       529
+desde   ADP     desde   case    185
+1922    NUM     1922    obl     14013
+faz     VERB    fazer   parataxis       188
+daqui   ADV     de aqui advmod  3099
+a       ADP     a       case    5
+dois    NUM     dois    nummod  127
+anos    NOUN    ano     obl     64
+cem     NUM     cem     nummod  5727
+anos    NOUN    ano     obj     64
+que     PRON    que     nsubj   7
+ela     PRON    ela     nsubj   98
+existe  VERB    existir acl:relcl       529
+como    ADP     como    case    29
+casa    NOUN    casa    obl     142
+museu   NOUN    museu   amod    4055
+em      ADP     em      case    10
+quarenta        NUM     quarenta        nummod  6408
+e       CCONJ   e       obl     4
+sete    NUM     sete    nsubj   1185
+houve   VERB    haver   ROOT    1173
+uma     DET     um      det     15
+remodelação     NOUN    remodelação     obj     22639
+e       CCONJ   e       cc      4
+a       DET     o       det     5
+casa    NOUN    casa    conj    142
+ainda   ADV     ainda   advmod  68
+está    AUX     estar   cop     58
+de      ADP     de      case    2
+pé      NOUN    pé      obl     1242
+ou      CCONJ   ou      cc      33
+seja    VERB    ser     conj    126
+ela     PRON    ela     nsubj   98
+é       AUX     ser     cop     14
+um      DET     um      det     13
+exemplo NOUN    exemplo nsubj   228
+nacional        ADJ     nacional        amod    536
+não     ADV     não     advmod  21
+sei     VERB    saber   parataxis       558
+se      SCONJ   se      mark    24
+isso    PRON    isso    nsubj   70
+acontece        VERB    acontecer       ccomp   777
+a       ADP     a       case    5
+nível   NOUN    nível   obl     418
+de      ADP     de      case    2
+outros  DET     outro   det     107
+escritores      NOUN    escritor        nsubj   6062
+penso   VERB    pensar  conj    3870
+que     SCONJ   que     mark    7
+não     ADV     não     advmod  21
+mas     CCONJ   mas     cc      44
+isso    PRON    isso    conj    70
+também  ADV     também  advmod  48
+muito   ADV     muito   advmod  50
+das     ADP     de o    case    34
+instituições    NOUN    instituição     ccomp   1101
+das     ADP     de o    case    34
+autarquias      NOUN    autarquia       nmod    15639
+dos     ADP     de o    case    30
+governos        NOUN    governo nmod    3527
+e       CCONJ   e       cc      4
+muitos  DET     muito   det     252
+coisas  NOUN    coisa   conj    269
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Mas     CCONJ   mas     cc      130
+acha    VERB    achar   ROOT    2381
+que     SCONJ   que     mark    7
+o       DET     o       det     6
+turismo NOUN    turismo nsubj   2200
+literário       ADJ     literário       amod    8134
+ainda   ADV     ainda   advmod  68
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+área    NOUN    área    ccomp   189
+que     PRON    que     nsubj   7
+pode    VERB    poder   acl:relcl       60
+ser     AUX     ser     cop     36
+mais    ADV     mais    advmod  25
+explorada       VERB    explorar        xcomp   19911
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Eu      PRON    eu      nsubj   171
+acho    VERB    achar   ROOT    697
+que     SCONJ   que     mark    7
+sim     ADV     sim     advmod  445
+quanto  ADV     quanto  advmod  260
+a       ADP     a       case    5
+isso    PRON    isso    nsubj   70
+ainda   ADV     ainda   advmod  68
+temos   VERB    ter     ccomp   375
+muito   ADV     muito   advmod  50
+a       SCONJ   a       mark    5
+aprender        VERB    aprender        xcomp   1178
+com     ADP     com     advcl   12
+…       PUNCT   …       punct   124
+,       PUNCT   ,       punct   0
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+preciso ADJ     preciso parataxis       509
+ir      VERB    ir      csubj   439
+muito   ADV     muito   advmod  50
+longe   ADV     longe   advmod  1223
+basta   VERB    bastar  csubj   1407
+ir      VERB    ir      xcomp   439
+aqui    ADV     aqui    advmod  140
+á       ADP     á       case    2736
+vizinha ADJ     vizinho amod    8212
+Espanha PROPN   LOC     obj     1820
+por     ADP     por     case    22
+qualquer        DET     qualquer        det     133
+coisa   NOUN    coisa   obl     267
+uma     DET     um      det     15
+área    NOUN    área    nsubj   189
+centenária      ADJ     centenário      amod    33615
+é       AUX     ser     cop     14
+motivo  NOUN    motivo  csubj   1118
+para    SCONJ   para    mark    11
+se      PRON    se      nsubj   24
+fazer   VERB    fazer   advcl   82
+turismo NOUN    turismo obj     2200
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    LOC     obl     160951
+:       PUNCT   :       punct   27
+Alguma  DET     Alguma  det     17884
+razão   NOUN    razão   nsubj   917
+para    SCONJ   para    case    11
+ele     PRON    ele     nsubj:pass      62
+não     ADV     não     advmod  21
+ser     AUX     ser     aux:pass        36
+muito   ADV     muito   advmod  50
+procurado       VERB    procurar        acl     9023
+sendo   AUX     ser     mark    139
+que     SCONJ   que     mark    7
+os      DET     o       det     18
+Portugueses     PROPN   LOC     nsubj   14169
+interessam-se   VERB    interessar se   ROOT    219999
+muito   ADV     muito   advmod  50
+pelos   ADP     por o   case    186
+escritores      NOUN    escritor        obl     6062
+Portugueses     PROPN   LOC     flat:name       14169
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Sabe    VERB    saber   advmod  5360
+interessam-se   VERB    interessar se   ROOT    219999
+aquelas DET     aquele  det     2364
+pessoa  NOUN    pessoa  nsubj   244
+que     PRON    que     nsubj   7
+estão   AUX     estar   aux     121
+ligadas VERB    ligado  acl:relcl       5148
+a       DET     o       det     5
+literatura      NOUN    literatura      obj     1950
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+que     PRON    que     nsubj   7
+não     ADV     não     advmod  21
+estão   AUX     estar   cop     121
+ligadas ADJ     ligar   acl:relcl       5148
+á       ADP     á       case    2736
+literatura      NOUN    literatura      obl     1950
+vêm     VERB    vir     acl:relcl       2963
+em      ADP     em      case    10
+menor   ADJ     pequeno amod    801
+número  NOUN    número  obl     288
+mas     CCONJ   mas     cc      44
+também  ADV     também  advmod  48
+vêm     VERB    vir     conj    2963
+ou      CCONJ   ou      cc      33
+porque  SCONJ   porque  mark    128
+viram   VERB    ver     conj    5465
+um      DET     um      det     13
+programa        NOUN    programa        obj     329
+na      ADP     em o    case    20
+televisão       NOUN    televisão       nmod    1660
+e       CCONJ   e       cc      4
+eu      PRON    eu      nsubj   63
+estou   AUX     estar   aux     381
+a       SCONJ   a       mark    5
+falar   VERB    falar   conj    409
+normalmente     ADV     normalmente     advmod  1620
+do      ADP     de o    case    8
+visitante       NOUN    visitante       obj     5581
+do      ADP     de o    case    8
+Domingo NOUN    ORG     nmod    5844
+á       ADP     á       case    2736
+tarde   NOUN    tarde   obl     450
+que     SCONJ   que     mark    7
+é       AUX     ser     cop     14
+o       DET     o       det     6
+visitante       NOUN    visitante       ccomp   5581
+que     PRON    que     obj     7
+eu      PRON    eu      nsubj   63
+menos   ADV     menos   advmod  165
+gosto   VERB    gosto   acl:relcl       828
+,       PUNCT   ,       punct   0
+não     ADV     não     advmod  21
+é       VERB    ser     ccomp   14
+que     SCONJ   que     fixed   7
+…       PUNCT   …       punct   124
+
+toda    DET     todo    det     199
+gente   NOUN    gente   nsubj   309
+têm     VERB    ter     ROOT    250
+o       DET     o       det     6
+direito NOUN    direito obj     285
+e       CCONJ   e       cc      4
+visitar VERB    visitar conj    2122
+a       DET     o       det     5
+casa    NOUN    casa    obj     142
+e       CCONJ   e       cc      4
+são     AUX     ser     aux:pass        46
+recebidos       VERB    receber conj    6488
+das     ADP     de o    case    34
+mesma   ADJ     mesmo   amod    277
+maneira NOUN    maneira obl     367
+,       PUNCT   ,       punct   0
+mas     CCONJ   mas     cc      44
+é       AUX     ser     cop     14
+o       DET     o       det     6
+visitante       NOUN    visitante       conj    5581
+que     PRON    que     obj     7
+eu      PRON    eu      nsubj   63
+menos   ADV     menos   advmod  165
+gosto   VERB    gostar  acl:relcl       828
+porque  SCONJ   porque  mark    128
+é       AUX     ser     cop     14
+o       DET     o       det     6
+visitante       NOUN    visitante       advcl   5581
+menos   ADV     menos   advmod  165
+informado       VERB    informar        acl     4778
+que     SCONJ   que     nsubj   7
+porque  SCONJ   porque  mark    128
+viu     VERB    ver     acl:relcl       1497
+na      ADP     em o    case    20
+televisão       NOUN    televisão       obl     1660
+porque  SCONJ   porque  mark    128
+lhe     PRON    ele     iobj    351
+alguém  PRON    alguém  nsubj   560
+lhe     PRON    ele     iobj    351
+falou   VERB    falar   advcl   1811
+mas     CCONJ   mas     cc      44
+também  ADV     também  advmod  48
+vem     VERB    vir     conj    347
+agora   ADV     agora   advmod  193
+de      ADP     de      case    2
+facto   NOUN    facto   obl     1959
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+que     PRON    que     nsubj   7
+mais    ADV     mais    advmod  25
+procuram        VERB    procurar        acl:relcl       5000
+são     AUX     ser     cop     46
+as      DET     o       det     23
+pessoas NOUN    pessoa  obj     87
+mais    ADV     mais    advmod  25
+identificadas   VERB    identificar     acl     11009
+e       CCONJ   e       cc      4
+ligadas VERB    ligar   conj    5148
+ás      ADP     ás      case    7392
+letras  NOUN    letra   obj     2938
+como    ADP     como    case    29
+os      DET     o       det     18
+professores     NOUN    professor       nmod    979
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+Então   ADV     então   advmod  591
+acha    VERB    achar   parataxis       2381
+que     SCONJ   que     mark    7
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+que     PRON    que     nsubj   7
+estão   AUX     estar   cop     121
+ligadas ADJ     ligar   acl:relcl       5148
+á       ADP     á       case    2736
+literatura      NOUN    literatura      obl     1950
+aproveitam      VERB    aproveitar      ccomp   17841
+e       CCONJ   e       cc      4
+usam    VERB    usar    conj    3485
+os      DET     o       det     18
+museus  NOUN    museu   obj     7064
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Sim     ADV     sim     advmod  1545
+eu      PRON    eu      nsubj   63
+penso   VERB    pensar  ROOT    3870
+que     SCONJ   que     mark    7
+sim     ADV     sim     advmod  445
+mas     CCONJ   mas     cc      44
+também  ADV     também  advmod  48
+depende VERB    depender        ccomp   2265
+muito   ADV     muito   advmod  50
+do      ADP     de o    case    8
+dinamismo       NOUN    dinamismo       obj     15597
+e       CCONJ   e       cc      4
+da      ADP     de o    case    9
+dinâmica        NOUN    dinâmica        conj    3421
+que     PRON    que     obj     7
+as      DET     o       det     23
+instituições    NOUN    instituição     nsubj   1101
+promovem        VERB    promover        acl:relcl       9601
+a       ADP     a       case    5
+redor   NOUN    redor   obl     1911
+dos     ADP     de o    case    30
+seus    DET     seu     det     72
+museus  NOUN    museu   nmod    7064
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Quem    PRON    quem    nsubj   753
+procura VERB    procurar        csubj   1172
+mais    ADV     mais    advmod  25
+o       DET     o       det     6
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+com     ADP     com     case    12
+base    NOUN    base    obl     337
+nesta   ADP     em este case    290
+casa    NOUN    casa    nmod    142
+são     AUX     ser     cop     46
+os      DET     o       det     18
+Portugueses     PROPN   LOC     ROOT    14169
+ou      CCONJ   ou      cc      33
+estrangeiros    ADJ     estrangeiro     conj    3728
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+São     AUX     ser     cop     103
+os      DET     o       det     18
+Portugueses     PROPN   LOC     nsubj   14169
+sobretudo       ADV     sobretudo       advmod  1788
+escolas NOUN    escola  amod    1089
+eu      PRON    eu      nsubj   63
+não     ADV     não     advmod  21
+lhe     PRON    ele     iobj    351
+disse   VERB    dizer   ROOT    204
+falei   VERB    falar   xcomp   4533
+em      ADP     em      case    10
+dez     NUM     dez     nummod  1113
+mil     NUM     mil     flat    264
+doze    NUM     doze    obj     4903
+mil     NUM     mil     flat    264
+é       AUX     ser     parataxis       14
+por     ADP     por     case    22
+aí      ADV     aí      advmod  669
+mas     CCONJ   mas     cc      44
+digamos VERB    digamos conj    10897
+que     SCONJ   que     mark    7
+oitenta NUM     oitenta nummod  12397
+por     ADP     por     nsubj   22
+cento   NUM     cento   compound        2286
+dos     ADP     de o    case    30
+visitantes      NOUN    visitante       nmod    2358
+desta   ADP     de este case    261
+casa    NOUN    casa    nmod    142
+são     AUX     ser     cop     46
+escolas NOUN    escola  ccomp   1089
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+
+Mas     CCONJ   mas     cc      130
+chega   VERB    chegar  ROOT    1129
+a       SCONJ   a       mark    5
+ter     VERB    ter     xcomp   80
+estrangeiros    ADJ     estrangeiro     obj     3728
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Também  ADV     também  advmod  629
+vem     VERB    vir     ROOT    347
+muitos  DET     muito   det     252
+estrangeiros    ADJ     estrangeiro     nsubj   3728
+sobretudo       ADV     sobretudo       advmod  1788
+Brasileiros     PROPN   LOC     nsubj   9826
+porque  SCONJ   porque  mark    128
+tem     VERB    ter     advcl   52
+a       DET     o       det     5
+mesma   ADJ     mesmo   amod    277
+língua  NOUN    língua  obj     1315
+mas     CCONJ   mas     cc      44
+também  ADV     também  advmod  48
+vem     VERB    vir     conj    347
+estrangeiros    ADJ     estrangeiro     xcomp   3728
+em      ADP     em      case    10
+grande  ADJ     grande  amod    116
+quantidade      NOUN    quantidade      obl     792
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+E       CCONJ   e       cc      79
+vem     VERB    vir     ROOT    347
+por     SCONJ   por     mark    22
+estar   AUX     estar   cop     238
+ligada  VERB    ligar   xcomp   4480
+á       ADP     á       case    2736
+literatura      NOUN    literatura      obj     1950
+ou      CCONJ   ou      cc      33
+vem     VERB    vir     conj    347
+mesmo   ADV     mesmo   advmod  66
+pelo    ADP     por o   case    45
+Camilo  PROPN   PER     obl     9566
+?
+        PUNCT   MISC    punct   500030
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Sim     ADV     sim     advmod  1545
+está    AUX     estar   aux     58
+ligado  ADJ     ligado  ROOT    3080
+á       ADP     á       case    2736
+literatura      NOUN    literatura      obj     1950
+mas     CCONJ   mas     cc      44
+a       SCONJ   a       mark    5
+falar   VERB    falar   conj    409
+do      ADP     de o    case    8
+visitante       NOUN    visitante       obj     5581
+
+Brasileiro      ADJ     LOC     advmod  1243
+ele     PRON    ele     nsubj   62
+vem     VERB    vir     ROOT    347
+porque  SCONJ   porque  mark    128
+conhece VERB    conhecer        advcl   1907
+a       DET     o       det     5
+obra    NOUN    obra    obj     474
+do      ADP     de o    case    8
+Camilo  PROPN   PER     nmod    9566
+e       CCONJ   e       cc      4
+emocionam       VERB    emocionar       conj    54051
+-       PUNCT   -       punct   41
+se      SCONJ   se      mark    24
+alguns  PRON    algum   nsubj   168
+deles   PRON    de ele  mark    562
+os      DET     o       det     18
+Galegos PROPN   LOC     nsubj   111619
+também  ADV     também  advmod  48
+a       DET     o       det     5
+Galiza  PROPN   LOC     nmod    18793
+os      DET     o       det     18
+Espanhóis       PROPN   LOC     nsubj   71949
+fora    AUX     ser     advmod  326
+disse   VERB    dizer   ccomp   204
+pronto  ADJ     pronto  xcomp   2008
+os      DET     o       det     18
+Franceses       PROPN   LOC     nsubj   46925
+os      DET     o       det     18
+Ingleses        PROPN   LOC     conj    36732
+também  ADV     também  advmod  48
+mas     CCONJ   mas     cc      44
+isso    PRON    isso    nsubj   70
+é       AUX     ser     cop     14
+em      ADP     em      case    10
+visitas NOUN    visita  obl     3205
+organizadas     VERB    organizar       acl     10282
+com     ADP     com     case    12
+produtores      NOUN    produtor        obl     2766
+turísticos      ADJ     turístico       amod    6150
+cá      ADV     cá      advmod  2217
+está    AUX     estar   ccomp   58
+os      DET     o       det     18
+produtores      NOUN    produtor        nsubj   2766
+turísticos      ADJ     turístico       amod    6150
+têm     VERB    ter     ccomp   250
+um      DET     um      det     13
+papel   NOUN    papel   obj     476
+importante      ADJ     importante      amod    241
+no      ADP     em o    case    16
+turismo NOUN    turismo nmod    2200
+literário       ADJ     literário       amod    8134
+sabe    VERB    saber   advcl   415
+que     SCONJ   que     mark    7
+nos     PRON    nós     iobj    53
+sabemos VERB    saber   ccomp   2230
+que     SCONJ   que     mark    7
+o       DET     o       det     6
+Porto   PROPN   LOC     nsubj   668
+está    VERB    estar   ccomp   58
+a       SCONJ   a       mark    5
+rebentar        VERB    rebentar        xcomp   52420
+pelas   ADP     por o   case    321
+costuras        NOUN    costura obl     27699
+,       PUNCT   ,       punct   0
+agora   ADV     agora   advmod  193
+não     ADV     não     advmod  21
+por     ADP     por     case    22
+causa   NOUN    causa   obl     498
+da      ADP     de o    case    9
+pandemia        NOUN    pandemia        nmod    45907
+mas     CCONJ   mas     cc      44
+em      ADP     em      case    10
+situações       NOUN    situação        conj    1168
+normais ADJ     normal  amod    5286
+o       DET     o       det     6
+Porto   PROPN   LOC     nsubj   668
+rebenta VERB    rebentar        ccomp   112974
+pelas   ADP     por o   case    321
+costuras        NOUN    costura obl     27699
+e       CCONJ   e       cc      4
+nos     ADP     em o    case    53
+aqui    ADV     aqui    advmod  140
+estamos AUX     estar   cop     655
+tao     ADV     tao     advmod  13924
+próximos        ADJ     próximo conj    1458
+do      ADP     de o    case    8
+Porto   PROPN   LOC     obl     668
+temos   VERB    ter     aux     375
+que     SCONJ   que     mark    7
+aproveitar      VERB    aproveitar      advcl   2031
+temos   VERB    ter     aux     375
+que     SCONJ   que     mark    7
+fazer   VERB    fazer   xcomp   82
+com     ADP     com     case    12
+os      DET     o       det     18
+turistas        NOUN    turista obj     3708
+venham  VERB    vir     ccomp   7867
+á       ADP     á       case    2736
+nossa   DET     nosso   det     190
+terra   NOUN    terra   obj     738
+agora   ADV     agora   advmod  193
+esta    PRON    este    det     147
+aqui    ADV     aqui    advmod  140
+o       DET     o       det     6
+Camilo  PROPN   PER     nsubj   9566
+é       AUX     ser     cop     14
+um      DET     um      det     13
+elemento        NOUN    elemento        obj     2722
+fundamental     ADJ     fundamental     amod    987
+para    SCONJ   para    mark    11
+fazer   VERB    fazer   acl     82
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+que     PRON    que     nsubj   7
+está    VERB    estar   acl:relcl       58
+a       SCONJ   a       mark    5
+estudar VERB    estudar xcomp   2018
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+por     ADP     por     case    22
+isso    PRON    isso    obl     70
+têm     VERB    ter     conj    250
+e       CCONJ   e       cc      4
+que     SCONJ   que     mark    7
+fazer   VERB    fazer   conj    82
+com     SCONJ   com     mark    12
+que     SCONJ   que     mark    7
+os      DET     o       det     18
+turistas        NOUN    turista nsubj   3708
+venham  VERB    venham  advcl   7867
+visitar VERB    visitar xcomp   2122
+a       DET     o       det     5
+casa    NOUN    casa    obj     142
+e       CCONJ   e       cc      4
+não     ADV     não     advmod  21
+só      ADV     só      advmod  96
+claro   ADJ     claro   conj    597
+tem     AUX     ter     aux     52
+que     SCONJ   que     mark    7
+haver   VERB    haver   csubj   1765
+aqui    ADV     aqui    advmod  140
+um      DET     um      det     13
+produto NOUN    produto obj     371
+que     PRON    que     nsubj   7
+interesse       NOUN    interesse       acl:relcl       770
+ao      ADP     a o     case    32
+turista NOUN    turista nmod    11263
+,       PUNCT   ,       punct   0
+porque  SCONJ   porque  mark    128
+a       ADP     a       case    5
+um      DET     um      det     13
+turista NOUN    turista obl     11263
+estrangeiro     ADJ     estrangeiro     amod    4867
+o       DET     o       det     6
+Camilo  PROPN   PER     nsubj   9566
+possivelmente   ADV     possivelmente   advmod  5904
+não     ADV     não     advmod  21
+lhes    PRON    eles    iobj    1902
+dira    PROPN   dira    advcl   214742
+nada    PRON    nada    obj     220
+é       AUX     ser     cop     14
+um      DET     um      det     13
+escritor        NOUN    escritor        nsubj   2386
+não     ADV     não     advmod  21
+lhe     PRON    ele     iobj    351
+dira    PROPN   dira    conj    214742
+nada    PRON    nada    obj     220
+mas     CCONJ   mas     cc      44
+se      SCONJ   se      dep     24
+para    ADP     para    case    11
+alem    VERB    alem    conj    11641
+disso   PRON    de isso mark    273
+houver  VERB    haver   advcl   3179
+mais    ADV     mais    advmod  25
+alguns  DET     algum   det     168
+elementos       NOUN    elemento        obj     1034
+uma     DET     um      det     15
+gastronomia     NOUN    gastronomia     obj     5678
+uma     DET     um      det     15
+música  NOUN    música  obj     384
+,       PUNCT   ,       punct   0
+teatro  NOUN    teatro  conj    2262
+e       CCONJ   e       cc      4
+folclore        NOUN    folclore        conj    15586
+é       VERB    ser     conj    14
+assim   ADV     assim   advmod  117
+que     SCONJ   que     mark    7
+se      PRON    se      nsubj   24
+consegue        VERB    conseguir       ccomp   1111
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Até     ADV     até     advmod  920
+porque  SCONJ   porque  mark    128
+não     ADV     não     advmod  21
+se      PRON    se      nsubj   24
+pode    VERB    poder   ROOT    60
+visitar VERB    visitar xcomp   2122
+um      DET     um      det     13
+lugar   NOUN    lugar   obj     221
+que     PRON    que     nsubj   7
+não     ADV     não     advmod  21
+sabe    VERB    saber   acl:relcl       415
+que     SCONJ   que     mark    7
+existe  VERB    existir ccomp   529
+.       PUNCT   .       punct   3
+
+E       CCONJ   e       cc      79
+acha    VERB    achar   ROOT    2381
+que     SCONJ   que     mark    7
+há      VERB    haver   ccomp   114
+muitas  DET     muito   det     245
+pessoas NOUN    pessoa  obj     87
+que     PRON    que     nsubj   7
+se      PRON    se      expl    24
+interessam      VERB    interessar      acl:relcl       15467
+pela    ADP     por o   case    51
+literatura      NOUN    literatura      obl     1950
+e       CCONJ   e       cc      4
+não     ADV     não     advmod  21
+sabem   VERB    saber   conj    1875
+que     SCONJ   que     mark    7
+existe  VERB    existir ccomp   529
+estes   DET     este    det     751
+museus  NOUN    museu   obj     7064
+e       CCONJ   e       cc      4
+estas   DET     este    det     1003
+casas   NOUN    casa    conj    1244
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Exatamente      ADV     exatamente      advmod  16261
+sim     ADV     sim     advmod  445
+isso    PRON    isso    nsubj   70
+também  ADV     também  advmod  48
+é       AUX     ser     cop     14
+verdade NOUN    verdade ROOT    341
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+E       CCONJ   e       cc      79
+que     SCONJ   que     obj     7
+faixa   NOUN    faixa   nsubj   1754
+etária  ADJ     etário  amod    8807
+é       AUX     ser     parataxis       14
+que     SCONJ   que     mark    7
+normalmente     ADV     normalmente     advmod  1620
+aparece VERB    aparecer        ccomp   1636
+mais    ADV     mais    advmod  25
+aqui    ADV     aqui    advmod  140
+jovens  ADJ     jovem   xcomp   785
+,       PUNCT   ,       punct   0
+idosos  ADJ     idoso   conj    3688
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Bem     ADV     bem     advmod  1855
+aqui    ADV     aqui    advmod  140
+idosos  ADJ     idoso   ROOT    3688
+não     ADV     não     advmod  21
+mas     CCONJ   mas     fixed   44
+…       PUNCT   …       punct   124
+
+Entrevistador: Adultos!
+        NOUN    MISC    ROOT    500031
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Adultos PROPN   Adultos nsubj   15235
+sim     ADV     sim     advmod  445
+adultos NOUN    adulto  nsubj   2174
+pronto  ADJ     pronto  amod    2008
+também  ADV     também  advmod  48
+vem     VERB    vir     ROOT    347
+jovens  ADJ     jovem   xcomp   785
+mas     CCONJ   mas     cc      44
+normalmente     ADV     normalmente     advmod  1620
+os      PRON    o       conj    18
+que     PRON    que     nsubj   7
+procuram        VERB    procurar        acl:relcl       5000
+mias    NOUN    mia     obj     94638
+são     AUX     ser     cop     46
+os      DET     o       det     18
+mais    ADV     mais    advmod  25
+velhos  NOUN    velho   conj    4744
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Qual    PRON    qual    nsubj   2393
+diria   VERB    dir     ROOT    6085
+que     SCONJ   que     mark    7
+são     AUX     ser     cop     46
+os      DET     o       det     18
+escritores      NOUN    escritor        ccomp   6062
+mais    ADV     mais    advmod  25
+procurados      VERB    procurar        acl     14223
+em Portugal
+Entrevistado    VERB    LOC     acl     500032
+:       PUNCT   :       punct   27
+
+É       AUX     ser     cop     88
+o       DET     o       det     6
+Camilo  PROPN   PER     ROOT    9566
+e       CCONJ   e       cc      4
+o       DET     o       det     6
+Eça de Queiroz  PROPN   PER     conj    500018
+!       PUNCT   !       punct   38
+
+Entrevistador   NOUN    entrevistador   ROOT    160951
+:       PUNCT   :       punct   27
+Camilo  PROPN   PER     appos   9566
+e       CCONJ   e       cc      4
+o       DET     o       det     6
+Eça de Queiroz  PROPN   PER     conj    500018
+,       PUNCT   ,       punct   0
+Fernando Pessoa PROPN   LOC     conj    500012
+também  ADV     também  advmod  48
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Fernando Pessoa PROPN   LOC     nsubj   500012
+agora   ADV     agora   advmod  193
+há      VERB    haver   ROOT    114
+a       DET     o       det     5
+casa    NOUN    casa    obj     142
+da      ADP     de o    case    9
+Amália Rodrigues        PROPN   PER     nmod    500033
+apesar  SCONJ   apesar  mark    787
+que     SCONJ   que     fixed   7
+ela     PRON    ela     nsubj   98
+não     ADV     não     advmod  21
+seja    AUX     ser     cop     126
+uma     DET     um      det     15
+escritora       NOUN    escritora       nsubj   7102
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+fadista NOUN    fadista ccomp   43875
+também  ADV     também  advmod  48
+muito   ADV     muito   advmod  50
+procurada       VERB    procurar        acl     19842
+mas     CCONJ   mas     cc      44
+de      ADP     de      case    2
+facto   NOUN    facto   conj    1959
+a       DET     o       det     5
+cas de Tormes   PROPN   LOC     nsubj   500034
+e       CCONJ   e       cc      4
+a       DET     o       det     5
+casa    NOUN    casa    conj    142
+de      ADP     de      case    2
+Camilo  PROPN   PER     nmod    9566
+e       CCONJ   e       cc      4
+eu      PRON    eu      nsubj   63
+estou   AUX     estar   aux     381
+a       SCONJ   a       mark    5
+falar   VERB    falar   conj    409
+das     ADP     de o    case    34
+escolas NOUN    escola  obj     1089
+que     PRON    que     nsubj   7
+são     AUX     ser     cop     46
+em      ADP     em      case    10
+maior   ADJ     grande  amod    134
+parte   NOUN    parte   acl:relcl       112
+as      DET     o       det     23
+escolas NOUN    escola  nsubj   1089
+que     PRON    que     nsubj   7
+vem     VERB    vir     acl:relcl       347
+cá      ADV     cá      advmod  2217
+são     AUX     ser     cop     46
+esses   PRON    esse    conj    457
+os      DET     o       det     18
+dois    NUM     dois    nummod  127
+sítios  NOUN    sítio   nsubj   8911
+mais    ADV     mais    advmod  25
+visitados       VERB    visitado        acl     17899
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+E       CCONJ   e       cc      79
+quais   PRON    qual    nsubj   387
+são     AUX     ser     cop     46
+os      DET     o       det     18
+lugares NOUN    lugar   ROOT    1179
+mais    ADV     mais    advmod  25
+procurados      VERB    procurar        acl     14223
+em      ADP     em      case    10
+termos  NOUN    termos  obl     719
+de      ADP     de      case    2
+casa    NOUN    casa    nmod    142
+de      ADP     de      case    2
+escritores      NOUN    escritor        nmod    6062
+ou      CCONJ   ou      cc      33
+de      ADP     de      case    2
+museus  NOUN    museu   conj    7064
+como    ADP     como    case    29
+a       DET     o       det     5
+cadeira NOUN    cadeira obl     4009
+da      ADP     de o    case    9
+Relação
+Entrevistado:   NOUN    MISC    nmod    500035
+
+Sim     INTJ    sim     ROOT    1545
+!       PUNCT   !       punct   38
+
+Falando VERB    falar   csubj   11108
+do      ADP     de o    case    8
+Camilo  PROPN   PER     obj     9566
+há      VERB    haver   advcl   114
+vários  DET     vários  det     328
+lugar   NOUN    lugar   obj     221
+procurados      VERB    procurar        acl     14223
+explorados      VERB    explorar        xcomp   19454
+nomeadamente    ADV     nomeadamente    advmod  3914
+em      ADP     em      case    10
+Vila Real       PROPN   LOC     obl     500036
+onde    PRON    onde    obl     92
+ele     PRON    ele     nsubj   62
+viveu   VERB    viver   acl:relcl       4772
+em      ADP     em      case    10
+criança NOUN    criança obl     758
+na      ADP     em o    case    20
+casa da tia     NOUN    PER     obl     500037
+,       PUNCT   ,       punct   0
+Vilarinho de Samardã    PROPN   LOC     obl     500038
+uma     DET     um      det     15
+aldeia  NOUN    aldeia  obj     4562
+que     PRON    que     nsubj   7
+se      SCONJ   se      mark    24
+não     ADV     não     advmod  21
+fosse   AUX     ser     advcl   654
+no      ADP     em o    case    16
+Camilo  PROPN   PER     obl     9566
+não     ADV     não     advmod  21
+existia VERB    existir acl:relcl       5865
+no      ADP     em o    case    16
+mapa    NOUN    mapa    obl     3499
+quer    VERB    querer  ROOT    302
+dizer   VERB    dizer   xcomp   318
+existia VERB    existir obj     5865
+mas     CCONJ   mas     cc      44
+não     ADV     não     advmod  21
+era     AUX     ser     cop     95
+conhecido       ADJ     conhecido       conj    781
+,       PUNCT   ,       punct   0
+Ribeira de Pena PROPN   LOC     nsubj   500039
+onde    PRON    onde    obl     92
+ele     PRON    ele     nsubj   62
+casou   VERB    casar   acl:relcl       9542
+u       PROPN   PER     obj     9217
+viveu   VERB    viver   conj    4772
+há      VERB    haver   advcl   114
+lá      ADV     lá      advmod  258
+roteiros        NOUN    roteiro obj     11844
+literários      ADJ     literário       amod    13702
+baseados        VERB    basear  acl     6103
+na      ADP     em o    case    20
+obra    NOUN    obra    obl     474
+do      ADP     de o    case    8
+Camilo  PROPN   PER     nmod    9566
+absolutamente   ADV     absolutamente   advmod  3852
+extraordinárias ADJ     extraordinário  amod    17039
+,       PUNCT   ,       punct   0
+está    VERB    estar   conj    58
+a       SCONJ   a       mark    5
+ver     VERB    ver     xcomp   197
+a       DET     o       det     5
+importância     NOUN    importância     obj     640
+de      ADP     de      case    2
+um      DET     um      det     13
+autor   NOUN    autor   nmod    810
+para    ADP     para    case    11
+as      DET     o       det     23
+terras  NOUN    terra   nmod    2650
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    LOC     ROOT    160951
+:       PUNCT   :       punct   27
+
+Sim     INTJ    sim     det     1545
+áreas   NOUN    área    ROOT    491
+que     PRON    que     nsubj   7
+não     ADV     não     advmod  21
+teriam  VERB    ter     acl:relcl       4023
+turismo NOUN    turismo obj     2200
+nenhum  DET     nenhum  det     624
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Não     ADV     não     advmod  102
+tinham  VERB    ter     ROOT    1276
+!       PUNCT   !       punct   38
+
+Não     ADV     não     advmod  102
+tinham  VERB    ter     ROOT    1276
+!       PUNCT   !       punct   38
+
+mesmo   ADV     mesmo   advmod  66
+aqui    ADV     aqui    advmod  140
+em      ADP     em      case    10
+Seide   PROPN   LOC     nmod    237798
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+freguesia       NOUN    freguesia       nsubj:pass      4953
+pequena ADJ     pequeno amod    945
+mas     CCONJ   mas     cc      44
+ganhou  VERB    ganhar  conj    1547
+muito   ADV     muito   advmod  50
+com     ADP     com     case    12
+a       DET     o       det     5
+presença        NOUN    presença        obj     627
+do      ADP     de o    case    8
+Camilo  PROPN   PER     nmod    9566
+aliás   ADV     aliás   advmod  4279
+ganhou  VERB    ganhar  advcl   1547
+muito   ADV     muito   advmod  50
+não     ADV     não     advmod  21
+é       AUX     ser     cop     14
+só      ADV     só      advmod  96
+Seide   PROPN   LOC     nsubj   237798
+ganhou  VERB    ganhar  ccomp   1547
+Famalicão       PROPN   LOC     obj     31874
+e       CCONJ   e       cc      4
+ganhou  VERB    ganhar  conj    1547
+o       DET     o       det     6
+país    NOUN    país    obj     207
+,       PUNCT   ,       punct   0
+por     ADP     por     case    22
+causa   NOUN    causa   obl     498
+do      ADP     de o    case    8
+Camilo  PROPN   PER     nmod    9566
+foi     AUX     ser     aux:pass        35
+construído      VERB    construir       ROOT    3276
+ali     ADV     ali     advmod  1000
+o       DET     o       det     6
+Centro  PROPN   LOC     nsubj   590
+de      ADP     de      case    2
+estudos NOUN    estudo  nmod    894
+Camilianos      PROPN   PER     appos   258911
+vai     AUX     ir      aux     101
+haver   VERB    haver   advcl   1765
+aqui    ADV     aqui    advmod  140
+uma     DET     um      det     15
+remodelação     NOUN    remodelação     obj     22639
+da      ADP     de o    case    9
+quinta  NOUN    quinta  nmod    3047
+da      ADP     de o    case    9
+casa    NOUN    casa    nmod    142
+dos     ADP     de o    case    30
+caseiros        NOUN    caseiro nmod    15428
+vai     AUX     ir      aux     101
+ser     AUX     ser     aux:pass        36
+reconstruída    VERB    reconstruir     advcl   33406
+por     ADP     por     case    22
+tanto   ADV     tanto   obl     272
+há      VERB    haver   advcl   114
+uma     DET     um      det     15
+rota    NOUN    rota    obj     5743
+Camiliana       PROPN   LOC     appos   321322
+que     PRON    que     nsubj   7
+está    AUX     estar   dep     58
+se      SCONJ   se      dep     24
+está    VERB    estar   acl:relcl       58
+a       SCONJ   a       mark    5
+estudar VERB    estudar xcomp   2018
+e       CCONJ   e       cc      4
+a       SCONJ   a       mark    5
+fazer   VERB    fazer   conj    82
+portanto        CCONJ   portanto        cc      1022
+a       DET     o       det     5
+freguesia       NOUN    freguesia       nsubj   4953
+só      ADV     só      advmod  96
+ganha   VERB    ganhar  conj    2433
+com     ADP     com     case    12
+isto    PRON    isto    obl     534
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+O       PRON    o       appos   28
+que     PRON    que     nsubj   7
+leva    VERB    levar   acl:relcl       1157
+uma     DET     um      det     15
+pessoa  NOUN    pessoa  obj     244
+a       SCONJ   a       mark    5
+praticar        VERB    praticar        acl     4262
+ou      CCONJ   ou      cc      33
+a       SCONJ   a       mark    5
+querer  VERB    querer  conj    1953
+praticar        VERB    praticar        xcomp   4262
+o       DET     o       det     6
+turismo NOUN    turismo obj     2200
+literário       ADJ     literário       amod    8134
+?       PUNCT   ?       punct   49
+
+Entrevistado:   VERB    MISC    ROOT    500013
+
+Sobretudo       ADV     sobretudo       advmod  25580
+o       DET     o       det     6
+conhecimento    NOUN    conhecimento    nsubj   492
+da      ADP     de o    case    9
+vida    NOUN    vida    nmod    90
+e       CCONJ   e       cc      4
+da      ADP     de o    case    9
+obra    NOUN    obra    conj    474
+do      ADP     de o    case    8
+autor   NOUN    autor   nmod    810
+sabe    VERB    saber   ROOT    415
+que     SCONJ   que     mark    7
+uma     DET     um      det     15
+coisa   NOUN    coisa   nsubj   267
+é       AUX     ser     cop     14
+ler     VERB    ler     ccomp   739
+o       DET     o       det     6
+livro   NOUN    livro   obj     227
+claro   ADJ     claro   amod    597
+que     SCONJ   que     mark    7
+a       DET     o       det     5
+gente   NOUN    gente   nsubj   309
+lê      VERB    ler     acl:relcl       7225
+um      DET     um      det     13
+livro   NOUN    livro   obj     227
+e       CCONJ   e       cc      4
+imagina VERB    imaginar        conj    7084
+sabe    VERB    saber   ccomp   415
+que     SCONJ   que     mark    7
+um      DET     um      det     13
+livro   NOUN    livro   nsubj   227
+é       AUX     ser     cop     14
+muito   ADV     muito   advmod  50
+mais    ADV     mais    advmod  25
+forte   ADJ     forte   ccomp   619
+que     SCONJ   que     mark    7
+o       DET     o       det     6
+cinema  NOUN    cinema  nsubj   1331
+normalmente     ADV     normalmente     advmod  1620
+não     ADV     não     advmod  21
+digo    VERB    dizer   csubj   3447
+todos   PRON    todo    obj     75
+mas     CCONJ   mas     cc      44
+normalmente     ADV     normalmente     advmod  1620
+quando  ADV     quando  advmod  71
+a       DET     o       det     5
+gente   NOUN    gente   nsubj   309
+vê      VERB    ver     conj    1546
+um      DET     um      det     13
+filme   NOUN    filme   obj     311
+baseado VERB    basear  acl     2301
+num     ADP     em um   case    270
+livro   NOUN    livro   obj     227
+que     PRON    que     obj     7
+a       DET     o       det     5
+gente   NOUN    gente   nsubj   309
+conhece VERB    conhecer        acl:relcl       1907
+o       DET     o       det     6
+filme   NOUN    filme   nsubj   311
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+desilusão       NOUN    desilusão       ccomp   23222
+,       PUNCT   ,       punct   0
+porquê  ADV     porquê  advmod  5143
+?       PUNCT   ?       punct   49
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Porque  SCONJ   porque  mark    1560
+não     ADV     não     advmod  21
+é       VERB    ser     cop     14
+como    ADV     como    mark    29
+imaginamos      VERB    imaginar        ROOT    25440
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Exatamente      ADV     exatamente      advmod  16261
+a       DET     o       det     5
+gente   NOUN    gente   nsubj   309
+lê      VERB    ler     advcl   7225
+um      DET     um      det     13
+livro   NOUN    livro   obj     227
+e       CCONJ   e       cc      4
+imagina VERB    imaginar        conj    7084
+vai     VERB    ir      xcomp   101
+muitos  PRON    muito   obj     252
+mais    ADV     mais    advmod  25
+longe   ADV     longe   advmod  1223
+o       DET     o       det     6
+filme   NOUN    filme   nsubj   311
+é       AUX     ser     cop     14
+aquilo  PRON    aquilo  nsubj   1238
+que     PRON    que     nsubj   7
+nos     PRON    nós     iobj    53
+dão     VERB    dar     acl:relcl       2145
+portanto        CCONJ   portanto        advmod  1022
+se      SCONJ   se      mark    24
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+conhecem        VERB    conhecer        advcl   5388
+os      DET     o       det     18
+livros  NOUN    livro   obj     581
+torna   VERB    tornar  ROOT    1351
+os      DET     o       det     18
+lugares NOUN    lugar   obj     1179
+muito   ADV     muito   advmod  50
+melhores        ADJ     bom     amod    364
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Pois    ADV     pois    advmod  1707
+conseguem       VERB    conseguir       ROOT    2909
+ver     VERB    ver     xcomp   197
+aquele  DET     aquele  det     677
+arvore  NOUN    arvore  obj     33714
+em      ADP     em      case    10
+que     PRON    que     obl     7
+o       DET     o       det     6
+Camilo  PROPN   PER     nsubj   9566
+se      PRON    se      expl    24
+inspirou        VERB    inspirar        acl:relcl       12079
+ou      CCONJ   ou      cc      33
+aquela  DET     aquele  det     941
+mesa    NOUN    mesa    conj    1329
+em      ADP     em      case    10
+que     PRON    que     obl     7
+ele     PRON    ele     nsubj   62
+escreveu        VERB    escrever        acl:relcl       1929
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Exatamente      ADV     exatamente      advmod  16261
+,       PUNCT   ,       punct   0
+é       AUX     ser     cop     14
+isso    PRON    isso    ROOT    70
+,       PUNCT   ,       punct   0
+é       AUX     ser     cop     14
+isso    PRON    isso    parataxis       70
+mesmo   ADJ     mesmo   amod    66
+!       PUNCT   !       punct   38
+
+Entrevistador   NOUN    MISC    obl     160951
+:       PUNCT   :       punct   27
+Uma     DET     um      det     209
+pessoa  NOUN    pessoa  nsubj   244
+que     PRON    que     nsubj   7
+não     ADV     não     advmod  21
+especialmente   ADV     especialmente   advmod  916
+fá      PROPN   fá      acl:relcl       76435
+de      ADP     de      case    2
+literatura      NOUN    literatura      nmod    1950
+consegue        VERB    conseguir       ROOT    1111
+encontrar       VERB    encontrar       xcomp   497
+prazer  NOUN    prazer  obj     1552
+ou      CCONJ   ou      cc      33
+divertimento    NOUN    divertimento    conj    25000
+no      ADP     em o    case    16
+turismo NOUN    turismo obl     2200
+literário       ADJ     literário       amod    8134
+?       PUNCT   ?       punct   49
+
+Entrevistado:   VERB    MISC    ROOT    500013
+
+Olhe    PROPN   Olhe    nsubj   19367
+sabe    VERB    saber   ROOT    415
+eu      PRON    eu      nsubj   63
+penso   VERB    pensar  ccomp   3870
+que     SCONJ   que     mark    7
+sim     ADV     sim     fixed   445
+,       PUNCT   ,       punct   0
+eu      PRON    eu      nsubj   63
+penso   VERB    pensar  ccomp   3870
+que     SCONJ   que     mark    7
+sim     ADV     sim     ccomp   445
+!       PUNCT   !       punct   38
+
+Depende VERB    Depende ROOT    17667
+muito   ADV     muito   advmod  50
+do      ADP     de o    case    8
+interlocutor    NOUN    interlocutor    obj     22103
+eu      PRON    eu      nsubj   63
+falo    VERB    falar   ccomp   5920
+da      ADP     de o    case    9
+experiência     NOUN    experiência     obj     404
+que     PRON    que     nsubj   7
+tenho   VERB    ter     acl:relcl       301
+há      VERB    haver   xcomp   114
+muita   DET     muito   det     414
+gente   NOUN    gente   obj     309
+que     SCONJ   que     mark    7
+cá      ADV     cá      advmod  2217
+e       CCONJ   e       cc      4
+nunca   ADV     nunca   advmod  271
+leu     VERB    ler     ccomp   7449
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+e       CCONJ   e       cc      4
+saem    VERB    sair    conj    6122
+daqui   ADV     de aqui advmod  3099
+com     ADP     com     case    12
+vontade NOUN    vontade obl     672
+de      SCONJ   de      mark    2
+ler     VERB    ler     csubj   739
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+isto    PRON    isto    flat:name       534
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+prova   NOUN    prova   obl     730
+que     SCONJ   que     mark    7
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+também  ADV     também  advmod  48
+se      PRON    se      expl    24
+interessam      VERB    interessar      acl:relcl       15467
+e       CCONJ   e       cc      4
+isto    PRON    isto    nsubj   534
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+forma   NOUN    forma   conj    94
+de      SCONJ   de      mark    2
+começarem       VERB    começar acl     18153
+a       SCONJ   a       mark    5
+conhecer        VERB    conhecer        xcomp   636
+melhor  ADV     melhor  advmod  118
+os      DET     o       det     18
+nossos  DET     nosso   det     333
+autores NOUN    autor   obj     1880
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+Quais   PRON    MISC    appos   5716
+são     AUX     ser     cop     46
+os      DET     o       det     18
+pontos  NOUN    ponto   ROOT    363
+principais      ADJ     principal       amod    397
+que     PRON    que     nsubj   7
+lhes    PRON    eles    iobj    1902
+interessam      VERB    interessar      acl:relcl       15467
+porque  SCONJ   porque  mark    128
+é       AUX     ser     discourse       14
+que     SCONJ   que     fixed   7
+eles    PRON    eles    nsubj   152
+saem    VERB    sair    advcl   6122
+daqui   ADV     de aqui advmod  3099
+interessados    NOUN    interessado     xcomp   2283
+?       PUNCT   ?       punct   49
+Entrevistado    VERB    Entrevistado    acl     100066
+:       PUNCT   :       punct   27
+
+Sabe    VERB    saber   ROOT    5360
+que     SCONJ   que     mark    7
+pronto  ADJ     pronto  ccomp   2008
+a       DET     o       det     5
+gente   NOUN    gente   nsubj   309
+faz     VERB    fazer   parataxis       188
+um      DET     um      det     13
+resumo  NOUN    resumo  obj     3634
+da      ADP     de o    case    9
+biografia       NOUN    biografia       nmod    9173
+e       CCONJ   e       cc      4
+a       DET     o       det     5
+própria DET     próprio amod    390
+biografia       NOUN    biografia       nsubj   9173
+do      ADP     de o    case    8
+Camilo  PROPN   PER     nmod    9566
+é       AUX     ser     cop     14
+apaixonante     ADJ     apaixonante     conj    22675
+,       PUNCT   ,       punct   0
+mas     CCONJ   mas     cc      44
+o       DET     o       det     6
+facto   NOUN    facto   nsubj   1959
+da      ADP     de o    case    9
+gente   NOUN    gente   nmod    309
+muitas  ADP     muitas  case    245
+vezes   NOUN    vez     nmod    179
+estou   AUX     estar   conj    381
+me      PRON    eu      det     86
+a       SCONJ   a       mark    5
+repetir VERB    repetir acl     5562
+mas     CCONJ   mas     cc      44
+pronto  ADJ     pronto  conj    2008
+a       DET     o       det     5
+experiência     NOUN    experiência     obj     404
+que     PRON    que     mark    7
+eu      PRON    eu      nsubj   63
+tenho   VERB    ter     acl:relcl       301
+a       DET     o       det     5
+gente   NOUN    gente   obj     309
+muitas  ADP     muitas  case    245
+vezes   NOUN    vez     obl     179
+durante ADP     durante case    151
+a       DET     o       det     5
+visita  NOUN    visita  obl     1100
+faz     VERB    fazer   conj    188
+algumas DET     algum   det     226
+leituras        NOUN    leitura obj     7491
+da      ADP     de o    case    9
+sua     DET     seu     det     37
+obra    NOUN    obra    nmod    474
+e       CCONJ   e       cc      4
+isso    PRON    isso    nsubj   70
+é       AUX     ser     cop     14
+muito   ADV     muito   advmod  50
+apelativo       ADJ     apelativo       conj    43424
+,       PUNCT   ,       punct   0
+eu      PRON    eu      nsubj   63
+muitas  ADP     muitas  case    245
+veze    NOUN    veze    obl     179292
+sento   VERB    sentar  conj    51211
+me      PRON    eu      obj     86
+ali     ADV     ali     advmod  1000
+na      ADP     em o    case    20
+cozinha NOUN    cozinha obl     1035
+e       CCONJ   e       cc      4
+peço    VERB    peçar   conj    7929
+aos     ADP     a o     case    81
+aluno   NOUN    aluno   obj     1609
+que     PRON    que     nsubj   7
+se      PRON    se      expl    24
+sentem  VERB    sentir  acl:relcl       5739
+e       CCONJ   e       cc      4
+conto-lhes      VERB    conto-lhes      conj    18446744073709551615
+a       DET     o       det     5
+historia        NOUN    historia        nsubj   7299
+da      ADP     de o    case    9
+“       PUNCT   “       punct   39
+Maria   PROPN   PER     nmod    473
+Moisés  PROPN   PER     flat:name       6543
+“       PUNCT   “       punct   39
+e       CCONJ   e       cc      4
+isso    PRON    isso    conj    70
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+interessam-se   VERB    interessar se   ccomp   219999
+muito   ADV     muito   advmod  50
+por     ADP     por     case    22
+isso    PRON    isso    obl     70
+e       CCONJ   e       cc      4
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+forma   NOUN    forma   conj    94
+de      SCONJ   de      mark    2
+levar   VERB    levar   acl     714
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+até     ADP     até     case    59
+elas    PRON    ele     obl     488
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Então   ADV     então   advmod  591
+uma     DET     um      det     15
+questão NOUN    questão nsubj   520
+em      ADP     em      case    10
+relação NOUN    relação nmod    249
+á       ADP     á       case    2736
+pandemia        NOUN    pandemia        nmod    45907
+a       DET     o       det     5
+Casa de Camilo  PROPN   PER     nsubj   500040
+sofreu  VERB    sofrer  ROOT    3245
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Muito   ADV     muito   advmod  852
+,       PUNCT   ,       punct   0
+muito   ADV     muito   ROOT    50
+!       PUNCT   !       punct   38
+
+Sabe    VERB    saber   ROOT    5360
+isto    PRON    isto    obj     534
+é       VERB    ser     cop     14
+como    ADP     como    case    29
+uma     DET     um      det     15
+torneira        NOUN    torneira        ccomp   18023
+mal     ADV     mal     advmod  684
+fechada VERB    fechar  acl     5764
+até     ADP     até     case    59
+aqui    ADV     aqui    advmod  140
+estava  AUX     estar   cop     169
+aberta  ADJ     aberto  conj    2115
+agora   ADV     agora   advmod  193
+está    AUX     estar   cop     58
+mal     ADV     mal     advmod  684
+fechada VERB    fechar  xcomp   5764
+ás      ADP     ás      case    7392
+gotinhas        NOUN    gotinha obl     52021
+aliás   ADV     aliás   advmod  4279
+como    ADP     como    case    29
+todos   DET     todo    det     75
+os      DET     o       det     18
+sectores        NOUN    sector  obl     15539
+,       PUNCT   ,       punct   0
+agora   ADV     agora   advmod  193
+nós     PRON    nós     conj    237
+e       CCONJ   e       cc      4
+já      ADV     já      advmod  57
+falei   VERB    falar   conj    4533
+com     ADP     com     case    12
+responsáveis    NOUN    responsável     obj     1674
+nos     PRON    nós     mark    53
+temos   VERB    ter     advcl   375
+a       DET     o       det     5
+obrigação       NOUN    obrigação       obj     3478
+de      SCONJ   de      mark    2
+promover        VERB    promover        acl     1511
+mais    ADV     mais    advmod  25
+ainda   ADV     ainda   advmod  68
+,       PUNCT   ,       punct   0
+nós     PRON    nós     nsubj   237
+não     ADV     não     advmod  21
+podemos VERB    poder   ccomp   690
+deixar  VERB    deixar  xcomp   441
+o       DET     o       det     6
+vírus   NOUN    vírus   obj     3050
+matar   VERB    matar   xcomp   2879
+a       DET     o       det     5
+cultura NOUN    cultura obj     676
+,       PUNCT   ,       punct   0
+não     ADV     não     advmod  21
+podemos VERB    poder   parataxis       690
+,       PUNCT   ,       punct   0
+claro   ADV     claro   mark    597
+que     SCONJ   que     mark    7
+temos   VERB    ter     aux     375
+que     SCONJ   que     mark    7
+respeitar       VERB    respeitar       advcl   5953
+as      DET     o       det     23
+regras  NOUN    regra   obj     1227
+de      ADP     de      case    2
+segurança       NOUN    segurança       nmod    322
+as      DET     o       det     23
+normas  NOUN    norma   obj     1761
+tudo    PRON    tudo    nsubj   109
+sim     ADV     sim     advmod  445
+senhora NOUN    senhora nmod    4499
+,       PUNCT   ,       punct   0
+mas     CCONJ   mas     cc      44
+a       DET     o       det     5
+cultura NOUN    cultura nsubj   676
+é       AUX     ser     cop     14
+necessária      ADJ     necessário      conj    1916
+a       DET     o       det     5
+literatura      NOUN    literatura      nsubj   1950
+é       AUX     ser     cop     14
+indispensável   ADJ     indispensável   ccomp   5582
+temos   VERB    ter     csubj   375
+que     SCONJ   que     mark    7
+fazer   VERB    fazer   xcomp   82
+com     SCONJ   com     mark    12
+que     SCONJ   que     mark    7
+as      DET     o       det     23
+pessoa  NOUN    pessoa  nsubj   244
+não     ADV     não     advmod  21
+pare    VERB    parar   advcl   13376
+de      SCONJ   de      mark    2
+visitar VERB    visitar xcomp   2122
+os      DET     o       det     18
+nossos  DET     nosso   det     333
+museus  NOUN    museu   obj     7064
+a       ADP     a       case    5
+Casa de Camilo  PROPN   PER     obl     500040
+claro   ADJ     claro   amod    597
+que     PRON    que     nsubj   7
+sofreu  VERB    sofrer  acl:relcl       3245
+muito   ADV     muito   advmod  50
+e       CCONJ   e       cc      4
+esperemos       VERB    esperer conj    54895
+que     SCONJ   que     mark    7
+isto    PRON    isto    nsubj   534
+passe   VERB    passar  ccomp   3700
+rapidamente     ADV     rapidamente     advmod  1514
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+O       PRON    o       det     28
+que     PRON    que     nsubj   7
+é       AUX     ser     discourse       14
+que     SCONJ   que     fixed   7
+acha    VERB    achar   acl:relcl       2381
+da      ADP     de o    case    9
+ideia   NOUN    ideia   obj     617
+das     ADP     de o    case    34
+pessoas NOUN    pessoa  nmod    87
+estarem AUX     estar   cop     5178
+“       PUNCT   “       punct   39
+trancadas       NOUN    trancada        xcomp   68459
+”       PUNCT   ”       punct   40
+em      ADP     em      case    10
+casa    NOUN    casa    obl     142
+que     PRON    que     nsubj   7
+se      PRON    se      expl    24
+envolvam        VERB    envolvar        acl:relcl       17425
+mais    ADV     mais    advmod  25
+com     ADP     com     case    12
+a       DET     o       det     5
+literatura      NOUN    literatura      obj     1950
+e       CCONJ   e       cc      4
+com     ADP     com     case    12
+os      DET     o       det     18
+livros  NOUN    livro   conj    581
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Sim     ADV     sim     advmod  1545
+,       PUNCT   ,       punct   0
+sim     ADV     sim     advmod  445
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+grande  ADJ     grande  amod    116
+oportunidade    NOUN    oportunidade    nsubj   724
+para    ADP     para    mark    11
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+lerem   VERB    ler     acl     29279
+,       PUNCT   ,       punct   0
+agora   ADV     agora   advmod  193
+devem-se        VERB    dever se        advcl   46655
+fazer   VERB    fazer   xcomp   82
+na      ADP     em o    case    20
+mesmo   ADV     mesmo   advmod  66
+vários  PRON    vários  obl     328
+que     SCONJ   que     mark    7
+cheguem VERB    chegar  advcl   18110
+ás      ADP     ás      case    7392
+pessoas NOUN    pessoa  obl     87
+mesmo   ADV     mesmo   advmod  66
+dentro  ADV     dentro  advmod  234
+das     ADP     de o    case    34
+suas    DET     seu     det     97
+casas   NOUN    casa    obl     1244
+como    ADP     como    case    29
+uma     DET     um      det     15
+atividade       NOUN    atividade       nmod    656
+que     PRON    que     nsubj   7
+fizemos VERB    fizemos acl:relcl       4172
+aqui    ADV     aqui    advmod  140
+chama   VERB    chamar  ROOT    2150
+“       PUNCT   “       punct   39
+
+Há      VERB    haver   ROOT    501
+cultura NOUN    cultura obj     676
+”       PUNCT   ”       punct   40
+que     PRON    que     nsubj   7
+foi     AUX     ser     cop     35
+um      DET     um      det     13
+vídeo   NOUN    vídeo   acl:relcl       610
+gravado VERB    gravar  acl     5914
+publicado       VERB    publicar        xcomp   1595
+numa    ADP     em um   case    300
+plataforma      NOUN    plataforma      obl     1499
+onde    PRON    onde    obl     92
+depois  ADV     depois  advmod  136
+as      DET     o       det     23
+pessoa  NOUN    pessoa  nsubj   244
+podem   VERB    poder   acl:relcl       146
+visualizar      VERB    visualizar      xcomp   6284
+tem     AUX     ter     aux     52
+que     SCONJ   que     mark    7
+ser     AUX     ser     ccomp   36
+assim   ADV     assim   advmod  117
+.       PUNCT   .       punct   3
+
+Entrevistador: Come     NOUN    MISC    nsubj   500041
+é       VERB    ser     cop     14
+que     SCONJ   que     mark    7
+visualiza       VERB    visualizar      ccomp   46286
+o       DET     o       det     6
+futuro  NOUN    futuro  obj     732
+da      ADP     de o    case    9
+literatura      NOUN    literatura      nmod    1950
+e       CCONJ   e       cc      4
+do      ADP     de o    case    8
+turismo NOUN    turismo conj    2200
+literário       ADJ     literário       amod    8134
+com     ADP     com     case    12
+a       DET     o       det     5
+nova    ADJ     novo    amod    230
+geração NOUN    geração nmod    1272
+que     PRON    que     nsubj   7
+vem     VERB    vir     acl:relcl       347
+aí      ADV     aí      advmod  669
+dos     ADP     de o    case    30
+jovens  NOUN    jovem   obl     785
+acha    VERB    achar   ROOT    2381
+que     SCONJ   que     mark    7
+vai     AUX     ir      aux     101
+haver   VERB    haver   ccomp   1765
+uma     DET     um      det     15
+aumento NOUN    aumento obj     718
+ou      CCONJ   ou      cc      33
+se      SCONJ   se      mark    24
+vai     AUX     ir      cop     101
+estagnar        VERB    estagnar        conj    91925
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Sabe    VERB    saber   ROOT    5360
+eu      PRON    eu      nsubj   63
+sou     AUX     ser     cop     525
+uma     DET     um      det     15
+pessoa  NOUN    pessoa  nsubj   244
+otimista        ADJ     otimista        amod    13625
+por     ADP     por     case    22
+natureza        NOUN    natureza        nmod    736
+eu      PRON    eu      nsubj   63
+quero   VERB    querar  acl:relcl       868
+lhe     PRON    ele     iobj    351
+responder       VERB    responder       xcomp   1987
+de      ADP     de      case    2
+uma     DET     um      det     15
+forma   NOUN    forma   obl     94
+positiva        ADJ     positivo        amod    3493
+,       PUNCT   ,       punct   0
+mais    NOUN    mais    advmod  25
+uma     ADP     uma     case    15
+vez     NOUN    vez     nmod    108
+depende VERB    depender        advcl   2265
+muito   ADV     muito   advmod  50
+das     ADP     de o    case    34
+pessoas NOUN    pessoa  obj     87
+das     ADP     de o    case    34
+instituições    NOUN    instituição     nmod    1101
+depende VERB    depender        advcl   2265
+muito   ADV     muito   obj     50
+de      SCONJ   de      mark    2
+quem    PRON    quem    nsubj   129
+promove VERB    promover        ccomp   3580
+estas   DET     este    det     1003
+coisas  NOUN    coisa   obj     269
+porque  SCONJ   porque  mark    128
+se      PRON    se      expl    24
+ficarem VERB    ficar   advcl   7807
+á       ADP     á       case    2736
+espera  NOUN    espera  obj     1481
+das     ADP     de o    case    34
+pessoas NOUN    pessoa  nmod    87
+nada    ADV     nada    nsubj   220
+vai     AUX     ir      aux     101
+acontecer       VERB    acontecer       csubj   1427
+por     ADP     por     case    22
+isso    PRON    isso    obl     70
+tem     AUX     ter     aux     52
+que     SCONJ   que     mark    7
+haver   VERB    haver   advcl   1765
+promoção        NOUN    promoção        obj     1553
+destas  ADP     de este case    2310
+coisas  NOUN    coisa   nmod    269
+,       PUNCT   ,       punct   0
+eu      PRON    eu      nsubj   63
+acho    VERB    achar   parataxis       697
+que     SCONJ   que     mark    7
+sinceramente    ADV     sinceramente    advmod  8623
+cada    NOUN    cada    nmod    104
+vez     ADP     vez     fixed   108
+mais    DET     mais    det     25
+pessoas NOUN    pessoa  nsubj   87
+estão   AUX     estar   cop     121
+ligadas ADJ     ligar   ccomp   5148
+ás      ADP     ás      case    7392
+artes   NOUN    arte    obl     2955
+no      ADP     em o    case    16
+tempo   NOUN    tempo   obl     85
+antes   ADV     antes   advmod  181
+do      ADP     de o    case    8
+25 de Abril     PROPN   ORG     obl     500042
+é       VERB    ser     csubj   14
+que     SCONJ   que     mark    7
+muita   DET     muito   det     414
+gente   NOUN    gente   nsubj   309
+não     ADV     não     advmod  21
+tinha   VERB    ter     ccomp   203
+grande  ADJ     grande  amod    116
+conhecimento    NOUN    conhecimento    obj     492
+das     ADP     de o    case    34
+coisas  NOUN    coisa   nmod    269
+eu      PRON    eu      nsubj   63
+penso   VERB    pensar  ccomp   3870
+que     SCONJ   que     mark    7
+agora   ADV     agora   advmod  193
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+estão   AUX     estar   cop     121
+mais    ADV     mais    advmod  25
+interessadas    ADJ     interessado     ccomp   9019
+sobre   ADP     sobre   case    55
+aquilo  PRON    aquilo  obl     1238
+que     PRON    que     nsubj   7
+é       AUX     ser     cop     14
+nosso   DET     nosso   det     173
+sobretudo       ADV     sobretudo       advmod  1788
+sobre   ADP     sobre   case    55
+aquilo  PRON    aquilo  acl:relcl       1238
+que     PRON    que     nsubj   7
+é       AUX     ser     cop     14
+nosso   PRON    nosso   acl:relcl       173
+e       CCONJ   e       cc      4
+se      SCONJ   se      mark    24
+nos     PRON    nós     obj     53
+não     ADV     não     advmod  21
+damos   VERB    dar     advcl   9980
+importância     NOUN    importância     obj     640
+ao      ADP     a o     case    32
+nosso   DET     nosso   det     173
+passado NOUN    passado iobj    401
+á       ADP     á       case    2736
+nossa   DET     nosso   det     190
+história        NOUN    história        obj     200
+perdemos        VERB    perder  parataxis       12050
+a       DET     o       det     5
+nossa   DET     nosso   det     190
+identidade      NOUN    identidade      obj     1844
+e       CCONJ   e       cc      4
+eu      PRON    eu      nsubj   63
+acho    VERB    achar   conj    697
+que     SCONJ   que     mark    7
+as      DET     o       det     23
+pessoa  NOUN    pessoa  nsubj   244
+têm     VERB    ter     ccomp   250
+consciência     NOUN    consciência     obj     1571
+disso   PRON    de isso nmod    273
+e       CCONJ   e       cc      4
+isto    PRON    isto    nsubj   534
+pode    VERB    poder   conj    60
+ter     AUX     ter     aux     80
+sido    AUX     ser     cop     265
+uma     DET     um      det     15
+frase   NOUN    frase   xcomp   2534
+feita   VERB    fazer   acl     625
+na      ADP     em o    case    20
+politica        NOUN    politica        obl     12831
+mas     CCONJ   mas     cc      44
+“       PUNCT   “       conj    39
+é       AUX     ser     cop     14
+a       SCONJ   a       mark    5
+preservar       VERB    preservar       xcomp   4878
+o       DET     o       det     6
+passado NOUN    passado obj     401
+que     PRON    que     nsubj   7
+se      PRON    se      expl    24
+constrói        VERB    constróir       acl:relcl       11656
+o       DET     o       det     6
+futuro  NOUN    futuro  obj     732
+”       PUNCT   ”       punct   40
+e       CCONJ   e       cc      4
+eu      PRON    eu      nsubj   63
+acho    VERB    achar   conj    697
+que     SCONJ   que     mark    7
+as      DET     o       det     23
+pessoa  NOUN    pessoa  nsubj   244
+têm     VERB    ter     ccomp   250
+consciência     NOUN    consciência     obj     1571
+disso   PRON    de isso nmod    273
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+O       PRON    o       appos   28
+que     PRON    que     nsubj   7
+podem   VERB    poder   acl:relcl       146
+fazer   VERB    fazer   xcomp   82
+mais    ADV     mais    advmod  25
+as      DET     o       det     23
+instituições    NOUN    instituição     obj     1101
+turísticas      ADJ     turístico       amod    13511
+ou      CCONJ   ou      cc      33
+estas   DET     este    det     1003
+casas   NOUN    casa    conj    1244
+museus  ADJ     museu   amod    7064
+para    SCONJ   para    mark    11
+incentivar      VERB    incentivar      advcl   5513
+mais    ADV     mais    advmod  25
+a       DET     o       det     5
+literatura      NOUN    literatura      obj     1950
+e       CCONJ   e       cc      4
+o       DET     o       det     6
+turismo NOUN    turismo conj    2200
+literário       ADJ     literário       amod    8134
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    acl     100066
+:       PUNCT   :       punct   27
+AS      PRON    AS      det     5194
+instituições    NOUN    instituição     nsubj   1101
+tem     VERB    ter     ROOT    52
+obrigação       NOUN    obrigação       obj     3478
+de      SCONJ   de      mark    2
+promover        VERB    promover        acl     1511
+,       PUNCT   ,       punct   0
+tem     AUX     ter     aux     52
+que     SCONJ   que     mark    7
+fazer   VERB    fazer   acl     82
+eu      PRON    eu      nsubj   63
+digo    VERB    dizer   conj    3447
+eventos NOUN    evento  nsubj   879
+não     ADV     não     advmod  21
+sei     VERB    saber   conj    558
+se      SCONJ   se      mark    24
+é       AUX     ser     cop     14
+a       DET     o       det     5
+palavra NOUN    palavra ccomp   906
+mais    ADV     mais    advmod  25
+correta ADJ     correto amod    2859
+mas     CCONJ   mas     cc      44
+tem     AUX     ter     aux     52
+que     SCONJ   que     mark    7
+fazer   VERB    fazer   conj    82
+coisas  NOUN    coisa   obj     269
+que     PRON    que     nsubj   7
+sejam   AUX     ser     cop     710
+atractivas      ADJ     atractivo       acl:relcl       125378
+e       CCONJ   e       cc      4
+que     PRON    que     nsubj   7
+atraem  VERB    atraer  conj    17366
+pessoas NOUN    pessoa  obj     87
+,       PUNCT   ,       punct   0
+e       CCONJ   e       cc      4
+quando  ADV     quando  advmod  71
+digo    VERB    digo    conj    3447
+pessoas NOUN    pessoa  obj     87
+têm     AUX     ter     aux     250
+que     SCONJ   que     mark    7
+ser     AUX     ser     cop     36
+todo    DET     todo    det     131
+o       DET     o       det     6
+tipo    NOUN    tipo    nsubj:pass      222
+de      ADP     de      case    2
+pessoas NOUN    pessoa  nmod    87
+não     ADV     não     advmod  21
+pode    VERB    poder   ccomp   60
+ser     AUX     ser     cop     36
+só      ADV     só      advmod  96
+uma     DET     um      det     15
+faixa   NOUN    faixa   xcomp   1754
+etária  ADJ     etário  amod    8807
+ou      CCONJ   ou      cc      33
+elites  NOUN    elite   conj    16769
+tem     VERB    ter     ccomp   52
+de      SCONJ   de      mark    2
+ser     AUX     ser     cop     36
+para    ADP     para    case    11
+toda    DET     todo    det     199
+gente   NOUN    gente   obj     309
+.       PUNCT   .       punct   3
+
+Eu      PRON    eu      nsubj   171
+vou     AUX     ir      aux     469
+tornar  VERB    tornar  parataxis       1153
+a       SCONJ   a       mark    5
+falar   VERB    falar   xcomp   409
+do      ADP     de o    case    8
+trilho  NOUN    trilho  obj     22339
+e       CCONJ   e       cc      4
+dessas  ADP     de esse case    1162
+coisa   NOUN    coisa   conj    267
+que     SCONJ   que     obj     7
+nós     PRON    nós     nsubj   237
+temos   AUX     ter     aux     375
+feito   VERB    fazer   acl:relcl       335
+,       PUNCT   ,       punct   0
+sabe    VERB    saber   ROOT    415
+a       DET     o       det     5
+ideia   NOUN    ideia   nsubj   617
+é       AUX     ser     cop     14
+dar     VERB    dar     ccomp   255
+vidas   NOUN    vida    obj     1898
+ás      ADP     ás      case    7392
+personagens     NOUN    personagem      iobj    1098
+de      ADP     de      case    2
+Camilo  PROPN   PER     nmod    9566
+é       AUX     ser     cop     14
+para    ADP     para    case    11
+toda    DET     todo    det     199
+gente   NOUN    gente   obl     309
+é       AUX     ser     cop     14
+tirar   VERB    tirar   advcl   1167
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+das     ADP     de o    case    34
+prateleiras     NOUN    prateleira      nmod    11507
+e       CCONJ   e       cc      4
+leva-lo VERB    leva-lo conj    63499
+para    ADP     para    case    11
+a       DET     o       det     5
+rua     NOUN    rua     obl     997
+é       VERB    ser     conj    14
+como    SCONJ   como    mark    29
+quem    PRON    quem    nsubj   129
+atira   VERB    atirar  xcomp   25083
+uma     DET     um      det     15
+pedra   NOUN    pedra   obj     2109
+para    ADP     para    case    11
+um      DET     um      det     13
+charco  NOUN    charco  obl     88695
+de      ADP     de      case    2
+água    NOUN    água    nmod    256
+,       PUNCT   ,       punct   0
+aquela  DET     aquele  det     941
+primeira        ADJ     primeiro        amod    166
+orla    NOUN    orla    nsubj   13501
+são     AUX     ser     cop     46
+pessoas NOUN    pessoa  ccomp   87
+daqui   ADV     de aqui advmod  3099
+nós     PRON    nós     nsubj   237
+sabem   VERB    saber   advcl   1875
+que     SCONJ   que     mark    7
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+conhecem        VERB    conhecer        ccomp   5388
+a       DET     o       det     5
+casa    NOUN    casa    obj     142
+ouvem   VERB    ouvir   advcl   18990
+falar   VERB    falar   xcomp   409
+do      ADP     de o    case    8
+Camilo  PROPN   PER     obj     9566
+mas     CCONJ   mas     cc      44
+não     ADV     não     advmod  21
+lêem    VERB    lêer    conj    32351
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+na      ADP     em o    case    20
+grande  ADJ     grande  amod    116
+maioria NOUN    maioria obl     421
+não     ADV     não     advmod  21
+estou   VERB    estar   conj    381
+a       SCONJ   a       mark    5
+falar   VERB    falar   xcomp   409
+de      ADP     de      case    2
+todos   PRON    todo    obl     75
+naturalmente    ADV     naturalmente    advmod  3738
+,       PUNCT   ,       punct   0
+esta    PRON    este    nsubj   147
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+forma   NOUN    forma   nsubj   94
+de      SCONJ   de      mark    2
+levar   VERB    levar   acl     714
+o       DET     o       det     6
+Camilo  PROPN   PER     obj     9566
+até     PROPN   até     obl     59
+e       CCONJ   e       cc      4
+afinal  ADV     afinal  advmod  1986
+até     ADV     até     advmod  59
+acham   VERB    achar   conj    4805
+interessante    ADJ     interessante    xcomp   1105
+,       PUNCT   ,       punct   0
+então   ADV     então   advmod  196
+quando  ADV     quando  advmod  71
+eu      PRON    eu      nsubj   63
+falo    VERB    falar   advcl   5920
+em      ADP     em      case    10
+eventos NOUN    evento  obl     879
+estou   VERB    estar   conj    381
+a       SCONJ   a       mark    5
+falar   VERB    falar   xcomp   409
+exactamente     ADV     exactamente     advmod  12816
+disto   PRON    de isto obj     5274
+e       CCONJ   e       cc      4
+preciso ADJ     preciso conj    509
+promover        VERB    promover        csubj   1511
+com     ADP     com     case    12
+actividades     NOUN    actividade      obj     5273
+com     ADP     com     case    12
+estas   PRON    este    nmod    1003
+para    SCONJ   para    mark    11
+incentivar      VERB    incentivar      advcl   5513
+as      DET     o       det     23
+pessoas NOUN    pessoa  obj     87
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+E       CCONJ   e       cc      79
+eu      PRON    eu      nsubj   63
+posso   VERB    poder   ROOT    1067
+dar     VERB    dar     xcomp   255
+o       DET     o       det     6
+meu     DET     meu     det     137
+exemplo NOUN    exemplo obj     228
+se      SCONJ   se      mark    24
+não     ADV     não     advmod  21
+fizesse VERB    fizer   advcl   8693
+aquela  DET     aquele  det     941
+visita  NOUN    visita  obj     1100
+de      ADP     de      case    2
+estudo  NOUN    estudo  nmod    521
+no      ADP     em o    case    16
+decimo  NOUN    decimo  obl     134338
+primeiro        ADJ     primeiro        amod    153
+nunca   ADV     nunca   advmod  271
+ficaria VERB    ficar   advcl   6078
+a       SCONJ   a       mark    5
+conhecer        VERB    conhecer        xcomp   636
+a       DET     o       det     5
+Casa do Camilo  PROPN   LOC     obj     500043
+.       PUNCT   .       punct   3
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Está    VERB    estar   ROOT    1895
+a       SCONJ   a       mark    5
+ver     VERB    ver     xcomp   197
+,       PUNCT   ,       punct   0
+
+é       AUX     ser     cop     14
+isso    PRON    isso    ROOT    70
+mesmo   ADJ     mesmo   amod    66
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Agora   ADV     agora   advmod  691
+uma     DET     um      det     15
+última  ADJ     último  amod    555
+pergunta        NOUN    perguntar       ROOT    1671
+porque  SCONJ   porque  mark    128
+é       AUX     ser     cc      14
+que     SCONJ   que     fixed   7
+pessoas NOUN    pessoa  nsubj   87
+se      PRON    se      expl    24
+devem   VERB    dever   advcl   402
+importar        VERB    importar        xcomp   9627
+pelo    ADP     por o   case    45
+turismo NOUN    turismo obl     2200
+literário       ADJ     literário       amod    8134
+e       CCONJ   e       cc      4
+pela    ADP     por o   case    51
+literatura      NOUN    literatura      conj    1950
+,       PUNCT   ,       punct   0
+porque  SCONJ   porque  mark    128
+que     SCONJ   que     nsubj   7
+é       AUX     ser     discourse       14
+que     SCONJ   que     fixed   7
+elas    PRON    ele     nsubj   488
+se      PRON    se      expl    24
+devem   VERB    dever   advcl   402
+importar        VERB    importar        xcomp   9627
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Vai     AUX     ir      aux     3266
+tudo    PRON    tudo    nsubj   109
+desencadear     VERB    desencadear     ROOT    18913
+ao      ADP     a o     case    32
+mesmo   ADV     mesmo   obl     66
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+deve-se VERB    dever se        ccomp   4936
+interessar      VERB    interessar      xcomp   12318
+porque  SCONJ   porque  mark    128
+assim   ADV     assim   advmod  117
+têm     VERB    ter     advcl   250
+melhor  ADJ     bom     amod    118
+conhecimento    NOUN    conhecimento    obj     492
+,       PUNCT   ,       punct   0
+e       CCONJ   e       cc      4
+os      DET     o       det     18
+nosso   DET     nosso   det     173
+autores NOUN    autor   conj    1880
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    ROOT    160951
+:       PUNCT   :       punct   27
+
+Em      ADP     em      case    76
+termos  NOUN    termos  ROOT    719
+de      ADP     de      case    2
+património      NOUN    património      nmod    8331
+cultura NOUN    cultura amod    676
+?       PUNCT   ?       punct   49
+
+Entrevistado    VERB    Entrevistado    ROOT    100066
+:       PUNCT   :       punct   27
+
+Nós     PRON    nós     nsubj   1115
+temos   VERB    ter     ROOT    375
+excelentes      ADJ     excelente       amod    4068
+documentos      NOUN    documento       obj     992
+humanos ADJ     humano  amod    1095
+um      DET     um      det     13
+documento       NOUN    documento       nsubj   1221
+humano  ADJ     humano  amod    1005
+é       AUX     ser     cop     14
+uma     DET     um      det     15
+coisa   NOUN    coisa   obj     267
+que     PRON    que     nsubj   7
+identifica      VERB    identificar     acl:relcl       9053
+a       DET     o       det     5
+nossa   DET     nosso   det     190
+historias       NOUN    historia        obj     27110
+os      DET     o       det     18
+nosso   DET     nosso   det     173
+antepassados    NOUN    antepassado     obj     15672
+e       CCONJ   e       cc      4
+o       DET     o       det     6
+livro   NOUN    livro   nsubj   227
+é       AUX     ser     cop     14
+um      DET     um      det     13
+excelente       ADJ     excelente       amod    961
+documento       NOUN    documento       conj    1221
+humano  ADJ     humano  amod    1005
+o       DET     o       det     6
+Camilo  PROPN   PER     nsubj   9566
+fala    VERB    falar   conj    933
+tanto   ADV     tanto   advmod  272
+das     ADP     de o    case    34
+pessoas NOUN    pessoa  obj     87
+e       CCONJ   e       cc      4
+da      ADP     de o    case    9
+forma   NOUN    forma   conj    94
+que     PRON    que     obj     7
+elas    PRON    ele     nsubj   488
+vivem   VERB    viver   acl:relcl       2821
+,       PUNCT   ,       punct   0
+da      ADP     de o    case    9
+gastronomia     NOUN    gastronomia     obl     5678
+do      ADP     de o    case    8
+Eça de Queirós  PROPN   PER     nmod    500011
+e       CCONJ   e       cc      4
+do      ADP     de o    case    8
+famoso  ADJ     famoso  amod    2417
+arroz   NOUN    arroz   conj    3698
+de      ADP     de      case    2
+favas   NOUN    fava    nmod    48490
+e       CCONJ   e       cc      4
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+têm     AUX     ter     aux     250
+que     SCONJ   que     mark    7
+se      PRON    se      expl    24
+interessar      VERB    interessar      xcomp   12318
+por     ADP     por     case    22
+isto    PRON    isto    obl     534
+porque  SCONJ   porque  mark    128
+assim   ADV     assim   advmod  117
+ficam   VERB    ficar   conj    1425
+a       SCONJ   a       mark    5
+entender        VERB    entender        xcomp   950
+melhor  ADV     melhor  advmod  118
+como    ADV     como    mark    29
+é       AUX     ser     discourse       14
+que     SCONJ   que     fixed   7
+as      DET     o       det     23
+pessoas NOUN    pessoa  nsubj   87
+viviam  VERB    viver   advcl   10747
+naquele ADP     em aquele       case    2148
+tempo   NOUN    tempo   obl     85
+,       PUNCT   ,       punct   0
+para    SCONJ   para    mark    11
+não     ADV     não     advmod  21
+falar   VERB    falar   advcl   409
+dos     ADP     de o    case    30
+amores  NOUN    amor    obj     8688
+e       CCONJ   e       cc      4
+dos     ADP     de o    case    30
+desamores       NOUN    desamor conj    117412
+.       PUNCT   .       punct   3
+
+Entrevistador   NOUN    MISC    nsubj   160951
+:       PUNCT   :       punct   27
+E       CCONJ   e       cc      79
+pronto  ADJ     pronto  conj    2008
+está    AUX     estar   cop     58
+tudo    PRON    tudo    nsubj   109
+está    AUX     estar   cop     58
+feita   ADJ     fazer   ROOT    625
+a       DET     o       det     5
+entrevista      NOUN    entrevista      nsubj   1267
+!       PUNCT   !       punct   38
