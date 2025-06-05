@@ -1,0 +1,145 @@
+=== ANÁLISE DETALHADA DE SENTIMENTO ===
+
+PARÁGRAFO 1: NEUTRAL
+Preview: João - Se pudessem criar uma nova disciplina, sobr...
+Polaridade Geral: -0.003804
+Polaridade Média das Palavras: 0.310766
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 24
+  Palavras positivas: 17 (70.8%)
+  Palavras negativas: 0 (0.0%)
+  Palavras neutras: 3 (12.5%)
+
+PALAVRAS MAIS POSITIVAS:
+  poder (VERB): 0.637149
+  aprender (VERB): 0.515505
+  interessante (ADJ): 0.485032
+  ajudar (VERB): 0.481531
+  disciplina (NOUN): 0.448545
+
+============================================================
+
+PARÁGRAFO 2: NEUTRAL
+Preview: Marco - Se vocês pudessem criar.. Vou perguntar es...
+Polaridade Geral: -0.083807
+Polaridade Média das Palavras: 0.228352
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 36
+  Palavras positivas: 21 (58.3%)
+  Palavras negativas: 1 (2.8%)
+  Palavras neutras: 7 (19.4%)
+
+PALAVRAS MAIS POSITIVAS:
+  poder (VERB): 0.637149
+  gostar (VERB): 0.559077
+  interessante (ADJ): 0.485032
+  inventar (VERB): 0.480032
+  disciplina (NOUN): 0.448545
+
+PALAVRAS MAIS NEGATIVAS:
+  ensinavam-te (VERB): -0.356929
+
+============================================================
+
+PARÁGRAFO 3: NEUTRAL
+Preview: João - Ok. Se pudessem criar uma nova disciplina n...
+Polaridade Geral: 0.001195
+Polaridade Média das Palavras: 0.209921
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 148
+  Palavras positivas: 64 (43.2%)
+  Palavras negativas: 7 (4.7%)
+  Palavras neutras: 15 (10.1%)
+
+PALAVRAS MAIS POSITIVAS:
+  importante (ADV): 0.684677
+  poder (VERB): 0.637149
+  ciente (ADJ): 0.610826
+  gostar (VERB): 0.559077
+  aprender (VERB): 0.515505
+
+PALAVRAS MAIS NEGATIVAS:
+  existir (VERB): -0.567221
+  indeciso (ADJ): -0.550519
+  problema (NOUN): -0.532288
+  demasiado (ADV): -0.428896
+  bocado (NOUN): -0.224232
+
+============================================================
+
+PARÁGRAFO 4: NEUTRAL
+Preview: Marco - Aliás não, é a próxima. Se pudesses criar ...
+Polaridade Geral: 0.051912
+Polaridade Média das Palavras: 0.249634
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 90
+  Palavras positivas: 47 (52.2%)
+  Palavras negativas: 4 (4.4%)
+  Palavras neutras: 9 (10.0%)
+
+PALAVRAS MAIS POSITIVAS:
+  bom (ADJ): 0.648155
+  poder (VERB): 0.637149
+  pronto (ADJ): 0.632470
+  preciso (ADJ): 0.574566
+  gostar (VERB): 0.559077
+
+PALAVRAS MAIS NEGATIVAS:
+  problema (NOUN): -0.532288
+  difícil (ADJ): -0.462255
+  imaginar se (VERB): -0.159977
+  anterior (ADJ): -0.105653
+
+============================================================
+
+PARÁGRAFO 5: NEUTRAL
+Preview: Marco - Se pudessem criar uma nova disciplina na e...
+Polaridade Geral: 0.099109
+Polaridade Média das Palavras: 0.316953
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 54
+  Palavras positivas: 27 (50.0%)
+  Palavras negativas: 1 (1.9%)
+  Palavras neutras: 6 (11.1%)
+
+PALAVRAS MAIS POSITIVAS:
+  importante (ADJ): 0.684677
+  poder (VERB): 0.637149
+  criativa (ADJ): 0.609242
+  gostar (VERB): 0.559077
+  termos (NOUN): 0.520884
+
+PALAVRAS MAIS NEGATIVAS:
+  sejam (VERB): -0.262374
+
+============================================================
+
+PARÁGRAFO 6: NEGATIVE
+Preview: Marco - Portanto, passando à próxima pergunta, se ...
+Polaridade Geral: -0.172435
+Polaridade Média das Palavras: 0.174588
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 46
+  Palavras positivas: 19 (41.3%)
+  Palavras negativas: 3 (6.5%)
+  Palavras neutras: 10 (21.7%)
+
+PALAVRAS MAIS POSITIVAS:
+  poder (VERB): 0.637149
+  gostar (VERB): 0.559077
+  aprender (VERB): 0.515505
+  útil (ADJ): 0.487677
+  disciplina (NOUN): 0.448545
+
+PALAVRAS MAIS NEGATIVAS:
+  descabido (ADJ): -0.632569
+  quiseres (NOUN): -0.152449
+  bocadinho (NOUN): -0.108656
+
+============================================================

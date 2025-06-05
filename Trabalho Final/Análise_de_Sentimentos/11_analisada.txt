@@ -1,0 +1,163 @@
+=== ANÁLISE DETALHADA DE SENTIMENTO ===
+
+PARÁGRAFO 1: NEGATIVE
+Preview: João - Há alguma coisa no mundo hoje que vos deixa...
+Polaridade Geral: -0.380398
+Polaridade Média das Palavras: 0.078252
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 37
+  Palavras positivas: 13 (35.1%)
+  Palavras negativas: 7 (18.9%)
+  Palavras neutras: 5 (13.5%)
+
+PALAVRAS MAIS POSITIVAS:
+  vamos-lhes (VERB): 0.513746
+  mundo (NOUN): 0.452601
+  vida (NOUN): 0.435418
+  pessoal (ADJ): 0.410387
+  sentir (VERB): 0.407969
+
+PALAVRAS MAIS NEGATIVAS:
+  frustrado (ADJ): -0.792209
+  deixar (VERB): -0.672868
+  confuso (ADJ): -0.343930
+  houver (VERB): -0.301821
+  pequenino (ADJ): -0.161971
+
+============================================================
+
+PARÁGRAFO 2: NEGATIVE
+Preview: Marco - Há alguma coisa no mundo que vos deixa fru...
+Polaridade Geral: -0.208062
+Polaridade Média das Palavras: 0.092869
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 104
+  Palavras positivas: 47 (45.2%)
+  Palavras negativas: 16 (15.4%)
+  Palavras neutras: 12 (11.5%)
+
+PALAVRAS MAIS POSITIVAS:
+  acertado (ADJ): 0.672025
+  poder (VERB): 0.637149
+  conseguir (VERB): 0.550704
+  assistimos (VERB): 0.534248
+  rapidamente (ADV): 0.513641
+
+PALAVRAS MAIS NEGATIVAS:
+  frustrado (ADJ): -0.792209
+  injusto (ADJ): -0.760063
+  deixar (VERB): -0.672868
+  prejuízo (NOUN): -0.642554
+  evitar (VERB): -0.620385
+
+============================================================
+
+PARÁGRAFO 3: NEGATIVE
+Preview: João - Porque tu, ao estudar direito, estudas a le...
+Polaridade Geral: -0.310246
+Polaridade Média das Palavras: 0.086893
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 178
+  Palavras positivas: 62 (34.8%)
+  Palavras negativas: 24 (13.5%)
+  Palavras neutras: 15 (8.4%)
+
+PALAVRAS MAIS POSITIVAS:
+  automaticamente (ADV): 0.699204
+  bom (ADJ): 0.648155
+  famoso (ADJ): 0.637681
+  poder (VERB): 0.637149
+  acessivel (ADJ): 0.595320
+
+PALAVRAS MAIS NEGATIVAS:
+  pobre (ADJ): -0.749787
+  estupidez (NOUN): -0.708577
+  afastar (VERB): -0.694779
+  deixar (VERB): -0.672868
+  tapado (NOUN): -0.671635
+
+============================================================
+
+PARÁGRAFO 4: NEGATIVE
+Preview: Marco -A próxima pergunta é há alguma coisa no mun...
+Polaridade Geral: -0.317782
+Polaridade Média das Palavras: 0.046236
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 96
+  Palavras positivas: 36 (37.5%)
+  Palavras negativas: 20 (20.8%)
+  Palavras neutras: 14 (14.6%)
+
+PALAVRAS MAIS POSITIVAS:
+  felizmente (ADV): 0.806424
+  bom (ADJ): 0.648155
+  poder (VERB): 0.637149
+  conseguir (VERB): 0.550704
+  rico (ADJ): 0.517348
+
+PALAVRAS MAIS NEGATIVAS:
+  maluquinho (ADJ): -0.768674
+  injusto (ADJ): -0.760063
+  frustrar (VERB): -0.693769
+  deixar (VERB): -0.672868
+  incomodar (VERB): -0.655130
+
+============================================================
+
+PARÁGRAFO 5: NEGATIVE
+Preview: Marco - Ainda vão para o secundário e ainda têm te...
+Polaridade Geral: -0.233356
+Polaridade Média das Palavras: 0.017387
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 45
+  Palavras positivas: 16 (35.6%)
+  Palavras negativas: 11 (24.4%)
+  Palavras neutras: 9 (20.0%)
+
+PALAVRAS MAIS POSITIVAS:
+  lutar (VERB): 0.514740
+  perceber (VERB): 0.480343
+  mundo (NOUN): 0.452601
+  entendi (VERB): 0.442099
+  sentido (NOUN): 0.381196
+
+PALAVRAS MAIS NEGATIVAS:
+  frustrar (VERB): -0.693769
+  deixar (VERB): -0.672868
+  queimar (VERB): -0.571400
+  engraçado (ADJ): -0.493038
+  afetar (VERB): -0.477792
+
+============================================================
+
+PARÁGRAFO 6: NEGATIVE
+Preview: Marco - Há alguma coisa no mundo, hoje em dia, que...
+Polaridade Geral: -0.349037
+Polaridade Média das Palavras: 0.066153
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 81
+  Palavras positivas: 28 (34.6%)
+  Palavras negativas: 12 (14.8%)
+  Palavras neutras: 16 (19.8%)
+
+PALAVRAS MAIS POSITIVAS:
+  mundial (ADJ): 0.718663
+  importante (ADJ): 0.684677
+  ego (NOUN): 0.477867
+  mundo (NOUN): 0.452601
+  precisar (VERB): 0.448910
+
+PALAVRAS MAIS NEGATIVAS:
+  frustrado (ADJ): -0.792209
+  frustar (VERB): -0.694352
+  frustrar (VERB): -0.693769
+  deixar (VERB): -0.672868
+  deixa-te (VERB): -0.615402
+
+============================================================

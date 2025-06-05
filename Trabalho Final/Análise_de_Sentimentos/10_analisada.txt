@@ -1,0 +1,159 @@
+=== ANÁLISE DETALHADA DE SENTIMENTO ===
+
+PARÁGRAFO 1: NEGATIVE
+Preview: Marco - Daqui a 10 anos, imaginem-se. Como é que v...
+Polaridade Geral: -0.207987
+Polaridade Média das Palavras: 0.188582
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 110
+  Palavras positivas: 52 (47.3%)
+  Palavras negativas: 11 (10.0%)
+  Palavras neutras: 7 (6.4%)
+
+PALAVRAS MAIS POSITIVAS:
+  poder (VERB): 0.637149
+  pronto (ADJ): 0.632470
+  próprio (NOUN): 0.602295
+  profissional (ADJ): 0.583495
+  gostar (VERB): 0.559077
+
+PALAVRAS MAIS NEGATIVAS:
+  nao (ADV): -0.679775
+  difícil (ADJ): -0.462255
+  haver (VERB): -0.426366
+  acabar (VERB): -0.412826
+  dissestar (VERB): -0.306876
+
+============================================================
+
+PARÁGRAFO 2: NEUTRAL
+Preview: João (entrevistador)- Culinária? Ok. Estás num sít...
+Polaridade Geral: -0.037935
+Polaridade Média das Palavras: 0.195473
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 77
+  Palavras positivas: 36 (46.8%)
+  Palavras negativas: 5 (6.5%)
+  Palavras neutras: 11 (14.3%)
+
+PALAVRAS MAIS POSITIVAS:
+  pronto (ADJ): 0.632470
+  preciso (ADJ): 0.574566
+  gostar (VERB): 0.559077
+  termos (NOUN): 0.520884
+  descobrir (VERB): 0.488634
+
+PALAVRAS MAIS NEGATIVAS:
+  criminal (ADJ): -0.435086
+  parteprofissional (NOUN): -0.308104
+  apesar (ADV): -0.284875
+  principalmente (ADV): -0.164774
+  desporto (NOUN): -0.159799
+
+============================================================
+
+PARÁGRAFO 3: NEUTRAL
+Preview: Marco - Então daqui a dez anos, imaginem-se. O que...
+Polaridade Geral: 0.045959
+Polaridade Média das Palavras: 0.217560
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 146
+  Palavras positivas: 65 (44.5%)
+  Palavras negativas: 7 (4.8%)
+  Palavras neutras: 17 (11.6%)
+
+PALAVRAS MAIS POSITIVAS:
+  importante (ADJ): 0.684677
+  bom (ADJ): 0.648155
+  poder (VERB): 0.637149
+  gostar (VERB): 0.559077
+  conhecimento (NOUN): 0.509826
+
+PALAVRAS MAIS NEGATIVAS:
+  perda (NOUN): -0.626902
+  indeciso (ADJ): -0.550519
+  tirar (VERB): -0.359254
+  ficas (VERB): -0.231247
+  quase (ADV): -0.215096
+
+============================================================
+
+PARÁGRAFO 4: POSITIVE
+Preview: João - Esta pergunta é sobre o futuro. Então, você...
+Polaridade Geral: 0.111713
+Polaridade Média das Palavras: 0.183389
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 64
+  Palavras positivas: 40 (62.5%)
+  Palavras negativas: 7 (10.9%)
+  Palavras neutras: 4 (6.2%)
+
+PALAVRAS MAIS POSITIVAS:
+  pronto (ADJ): 0.632470
+  gostar (VERB): 0.559077
+  preparar (VERB): 0.482635
+  liberdade (NOUN): 0.453600
+  disciplina (NOUN): 0.448545
+
+PALAVRAS MAIS NEGATIVAS:
+  crepes (NOUN): -0.632464
+  engraçado (VERB): -0.493038
+  acabar (VERB): -0.412826
+  vendíar (VERB): -0.353435
+  houvesse (VERB): -0.229022
+
+============================================================
+
+PARÁGRAFO 5: NEUTRAL
+Preview: João - O que não falta é tunas na universidade. No...
+Polaridade Geral: -0.001842
+Polaridade Média das Palavras: 0.132307
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 92
+  Palavras positivas: 37 (40.2%)
+  Palavras negativas: 12 (13.0%)
+  Palavras neutras: 6 (6.5%)
+
+PALAVRAS MAIS POSITIVAS:
+  adorar (VERB): 0.710447
+  bom (ADJ): 0.648155
+  próprio (NOUN): 0.602295
+  gostar (VERB): 0.559077
+  praticar (VERB): 0.552004
+
+PALAVRAS MAIS NEGATIVAS:
+  lesão (NOUN): -0.690887
+  parar (VERB): -0.627247
+  andar (VERB): -0.558271
+  voltar (VERB): -0.508491
+  tirar (VERB): -0.359254
+
+============================================================
+
+PARÁGRAFO 6: NEUTRAL
+Preview: João - Pronto. Agora, para o vosso futuro, imagine...
+Polaridade Geral: 0.073779
+Polaridade Média das Palavras: 0.274133
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 53
+  Palavras positivas: 28 (52.8%)
+  Palavras negativas: 1 (1.9%)
+  Palavras neutras: 5 (9.4%)
+
+PALAVRAS MAIS POSITIVAS:
+  poder (VERB): 0.637149
+  gostar (VERB): 0.559077
+  termos (NOUN): 0.520884
+  gostavam (VERB): 0.494020
+  igualmente (ADV): 0.476521
+
+PALAVRAS MAIS NEGATIVAS:
+  acabar (VERB): -0.412826
+
+============================================================

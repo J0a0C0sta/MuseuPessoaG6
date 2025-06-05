@@ -1,0 +1,163 @@
+=== ANÁLISE DETALHADA DE SENTIMENTO ===
+
+PARÁGRAFO 1: NEUTRAL
+Preview: João - Pois foi, disse que estava na resposta do G...
+Polaridade Geral: -0.085206
+Polaridade Média das Palavras: 0.151783
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 76
+  Palavras positivas: 35 (46.1%)
+  Palavras negativas: 9 (11.8%)
+  Palavras neutras: 8 (10.5%)
+
+PALAVRAS MAIS POSITIVAS:
+  realmente (ADV): 0.666484
+  real (ADJ): 0.548945
+  aprender (VERB): 0.515505
+  pessoalmente (ADV): 0.502607
+  perceber (VERB): 0.480343
+
+PALAVRAS MAIS NEGATIVAS:
+  ignorante (NOUN): -0.823426
+  falor (VERB): -0.685247
+  diferente (ADJ): -0.302428
+  acontecia (VERB): -0.290190
+  bocado (NOUN): -0.224232
+
+============================================================
+
+PARÁGRAFO 2: NEGATIVE
+Preview: João (entrevistador) - Posso fazer a última? Então...
+Polaridade Geral: -0.113569
+Polaridade Média das Palavras: 0.194342
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 102
+  Palavras positivas: 50 (49.0%)
+  Palavras negativas: 7 (6.9%)
+  Palavras neutras: 11 (10.8%)
+
+PALAVRAS MAIS POSITIVAS:
+  consigo (VERB): 0.694564
+  completamente (ADV): 0.676200
+  gostar (VERB): 0.559077
+  fácil (ADJ): 0.555047
+  benefício (NOUN): 0.539749
+
+PALAVRAS MAIS NEGATIVAS:
+  maleficio (NOUN): -0.795907
+  escape (NOUN): -0.676221
+  pedir (VERB): -0.543748
+  sair (VERB): -0.489295
+  apesar (ADV): -0.284875
+
+============================================================
+
+PARÁGRAFO 3: NEUTRAL
+Preview: Marco - Diz-me alguma coisa, mas eu nunca vi. É in...
+Polaridade Geral: 0.027362
+Polaridade Média das Palavras: 0.158694
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 129
+  Palavras positivas: 56 (43.4%)
+  Palavras negativas: 16 (12.4%)
+  Palavras neutras: 9 (7.0%)
+
+PALAVRAS MAIS POSITIVAS:
+  importante (ADJ): 0.684677
+  poder (VERB): 0.637149
+  esperança (NOUN): 0.584445
+  gostar (VERB): 0.559077
+  fácil (ADJ): 0.555047
+
+PALAVRAS MAIS NEGATIVAS:
+  desligar (VERB): -0.568101
+  passear (VERB): -0.529287
+  difícil (ADJ): -0.462255
+  demasiado (ADJ): -0.428896
+  apagão (NOUN): -0.408589
+
+============================================================
+
+PARÁGRAFO 4: NEGATIVE
+Preview: João - A última pergunta e depois podem ir embora....
+Polaridade Geral: -0.115467
+Polaridade Média das Palavras: 0.111116
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 153
+  Palavras positivas: 54 (35.3%)
+  Palavras negativas: 16 (10.5%)
+  Palavras neutras: 19 (12.4%)
+
+PALAVRAS MAIS POSITIVAS:
+  próprio (ADJ): 0.602295
+  grandede (ADJ): 0.536864
+  sozinho (ADJ): 0.498804
+  conforto (NOUN): 0.494957
+  perceber (VERB): 0.480343
+
+PALAVRAS MAIS NEGATIVAS:
+  violento (ADJ): -0.674868
+  exagero (NOUN): -0.621963
+  andar (VERB): -0.558271
+  problema (NOUN): -0.532288
+  haver (VERB): -0.426366
+
+============================================================
+
+PARÁGRAFO 5: NEUTRAL
+Preview: João - Esta é a última pergunta. Por isso, por iss...
+Polaridade Geral: -0.080016
+Polaridade Média das Palavras: 0.145810
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 172
+  Palavras positivas: 61 (35.5%)
+  Palavras negativas: 16 (9.3%)
+  Palavras neutras: 20 (11.6%)
+
+PALAVRAS MAIS POSITIVAS:
+  merecer (VERB): 0.752808
+  bom (ADJ): 0.648155
+  poder (VERB): 0.637149
+  confiança (NOUN): 0.565267
+  gostar (VERB): 0.559077
+
+PALAVRAS MAIS NEGATIVAS:
+  perigoso (ADJ): -0.753298
+  falor (VERB): -0.685247
+  deixar (VERB): -0.672868
+  existir (VERB): -0.567221
+  problema (NOUN): -0.532288
+
+============================================================
+
+PARÁGRAFO 6: NEGATIVE
+Preview: João - Então ultima pergunta e depois podem ir emb...
+Polaridade Geral: -0.230237
+Polaridade Média das Palavras: 0.118738
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 102
+  Palavras positivas: 37 (36.3%)
+  Palavras negativas: 13 (12.7%)
+  Palavras neutras: 12 (11.8%)
+
+PALAVRAS MAIS POSITIVAS:
+  pronto (ADJ): 0.632470
+  gostar (VERB): 0.559077
+  conseguir (VERB): 0.550704
+  melhor (ADV): 0.492670
+  perceber (VERB): 0.480343
+
+PALAVRAS MAIS NEGATIVAS:
+  perigoso (ADJ): -0.753298
+  ficáva (NOUN): -0.466317
+  difícil (ADJ): -0.462255
+  haver (VERB): -0.426366
+  apagão (NOUN): -0.408589
+
+============================================================
