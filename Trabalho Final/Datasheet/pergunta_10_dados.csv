@@ -1,0 +1,7 @@
+Paragrafo;Sentimento;Polaridade Geral;Polaridade Média;Total palavras;Positivas;Negativas;Neutras;Mais Positiva;Score Mais Positiva;Mais Negativa;Score Mais Negativa
+1;NEGATIVE;-0.207987;0.188582;110;52;11;7;poder (VERB);0.637149;nao (ADV);-0.679775
+2;NEUTRAL;-0.037935;0.195473;77;36;5;11;pronto (ADJ);0.632470;criminal (ADJ);-0.435086
+3;NEUTRAL;0.045959;0.217560;146;65;7;17;importante (ADJ);0.684677;perda (NOUN);-0.626902
+4;POSITIVE;0.111713;0.183389;64;40;7;4;pronto (ADJ);0.632470;crepes (NOUN);-0.632464
+5;NEUTRAL;-0.001842;0.132307;92;37;12;6;adorar (VERB);0.710447;lesão (NOUN);-0.690887
+6;NEUTRAL;0.073779;0.274133;53;28;1;5;poder (VERB);0.637149;acabar (VERB);-0.412826

@@ -1,0 +1,7 @@
+Paragrafo;Sentimento;Polaridade Geral;Polaridade Média;Total palavras;Positivas;Negativas;Neutras;Mais Positiva;Score Mais Positiva;Mais Negativa;Score Mais Negativa
+1;NEUTRAL;-0.085206;0.151783;76;35;9;8;realmente (ADV);0.666484;ignorante (NOUN);-0.823426
+2;NEGATIVE;-0.113569;0.194342;102;50;7;11;consigo (VERB);0.694564;maleficio (NOUN);-0.795907
+3;NEUTRAL;0.027362;0.158694;129;56;16;9;importante (ADJ);0.684677;desligar (VERB);-0.568101
+4;NEGATIVE;-0.115467;0.111116;153;54;16;19;próprio (ADJ);0.602295;violento (ADJ);-0.674868
+5;NEUTRAL;-0.080016;0.145810;172;61;16;20;merecer (VERB);0.752808;perigoso (ADJ);-0.753298
+6;NEGATIVE;-0.230237;0.118738;102;37;13;12;pronto (ADJ);0.632470;perigoso (ADJ);-0.753298

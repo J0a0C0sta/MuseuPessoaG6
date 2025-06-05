@@ -1,0 +1,7 @@
+Paragrafo;Sentimento;Polaridade Geral;Polaridade Média;Total palavras;Positivas;Negativas;Neutras;Mais Positiva;Score Mais Positiva;Mais Negativa;Score Mais Negativa;
+1;NEGATIVE;-0.380398;0.078252;37;13;7;5;vamos-lhes (VERB);0.513746;frustrado (ADJ);-0.792209;
+2;NEGATIVE;-0.208062;0.092869;104;47;16;12;acertado (ADJ);0.672025;frustrado (ADJ);-0.792209;
+3;NEGATIVE;-0.310246;0.086893;178;62;24;15;automaticamente (ADV);0.699204;pobre (ADJ);-0.749787;
+4;NEGATIVE;-0.317782;0.046236;96;36;20;14;felizmente (ADV);0.806424;maluquinho (ADJ);-0.768674;
+5;NEGATIVE;-0.233356;0.017387;45;16;11;9;lutar (VERB);0.514740;frustrar (VERB);-0.693769;
+6;NEGATIVE;-0.349037;0.066153;81;28;12;16;mundial (ADJ);0.718663;frustrado (ADJ);-0.792209;

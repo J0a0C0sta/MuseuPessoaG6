@@ -1,0 +1,7 @@
+Paragrafo;Sentimento;Polaridade Geral;Polaridade Média;Total palavras;Positivas;Negativas;Neutras;Mais Positiva;Score Mais Positiva;Mais Negativa;Score Mais Negativa
+1;NEUTRAL;-0.003804;0.310766;24;17;0;3;poder (VERB);0.637149;;
+2;NEUTRAL;-0.083807;0.228352;36;21;1;7;poder (VERB);0.637149;ensinavam-te (VERB);-0.356929
+3;NEUTRAL;0.001195;0.209921;148;64;7;15;importante (ADV);0.684677;existir (VERB);-0.567221
+4;NEUTRAL;0.051912;0.249634;90;47;4;9;bom (ADJ);0.648155;problema (NOUN);-0.532288
+5;NEUTRAL;0.099109;0.316953;54;27;1;6;importante (ADJ);0.684677;sejam (VERB);-0.262374
+6;NEGATIVE;-0.172435;0.174588;46;19;3;10;poder (VERB);0.637149;descabido (ADJ);-0.632569
